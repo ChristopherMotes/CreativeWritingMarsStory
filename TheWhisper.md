@@ -39,8 +39,22 @@ Second, you rich guys took everyones ability to defend themselves, right? In Mus
 
 Finally, when you monopolized violence you needed more cops. So, you lowered the standard. What type of employees do you think are attracted to monopolized violence? Attracted to kicking down doors and running through people's things? Good men like the Whisper. Well intentioned with a hell of a violent streak. Or do you think it was all the would be thugs and mobsters who had been coming up before you cleaned the streets.
 
-Crime stats are down because cops commit the crimes. The rat squad hides those crimes, so you rich people can live in your utopia. Hanging a badge on a evil man's chest doesn't make him a good man. It just makes him a criminal with the support of the law. The workless, the working poor. We do our best but it ain't much. Their only help in this dome is the Whisper."
+Crime stats are down because cops commit the crimes. The rat squad hides those crimes, so you rich people can live in your utopia. Hanging a badge on a evil man's chest doesn't make him a good man. It just makes him a criminal with the support of the law. The workless, the working poor. We do our best for them, but it ain't much. Their only help in this dome is the Whisper."
 
 Leo looks around. Sees the hum of activity. "Jimmy, I think your honesty has you over dramatizing. The Whisper is a vigilante. I know he works with you and other cops frequently. But, he's still a law breaker. Besides, I'm outside with these people, totally safe. I'm way more focused on you than my surroundings. We have freedom and security here."
 
 "Look Mr Musk. I'm down like Disco Brown. Arrest people, put 'em in a rehab center, then return them to society. But, crime doesn't just go away. It just changes its style," Jimmy closes his speech. "Someone needs to watch the watcher. That's supposed to be the rat squad. I'm willing to bet a year of my pay against an hour of yours, SWAT hit the wrong house. They're all the same floor plan on that level. They were after something else. The rat squad couldn't bury it in time."
+
+# Enter the Whisper
+
+Jimmy Nuts stands at the entry to the slain family's home. A cup of coffee in his hands. His shirt stained from standing at crime scenes like this before. He's shaking his head with an odd trifecta of grief, anger, and jadedness. A scaffolding from a long completed doming project, too risky to remove, looms over Jimmy. Too risky for any sane person to stand on. No one would ever look.
+
+But someone does.
+
+The Whisper stands motionless on the highest crossbeam of the rusted framework, balanced with the weight of a man who understands leverage and mass. The armor catches no light—black composites and charcoal plates absorb it like a void. Only the reflective mask glints faintly in the dome's ambient glow, a mirror-black surface that seems to drink in the world and give nothing back. The Mars emblem on his breastplate catches a sliver of illumination, the falcon wings rising in sharp relief, a symbol of purpose hovering over the scene below.
+
+He doesn't move. Doesn't breathe audibly. The integrated circuitry hums beneath synthetic leather at his joints, a sound so faint only someone trained to listen would hear it. The crest on his helmet—Mars encircled by falcon wings functioning as antennae—transmits and receives, a sentinel gathering data.
+
+Jimmy takes a sip of coffee. A small gesture. Ordinary. But his shoulders tense ever so slightly. He knows. Not consciously—not yet—but the animal part of his brain screams that he's being observed. That something dangerous is watching from the dark places. That weight of attention bearing down from above, patient and certain as gravity.
+
+The Whisper's presence is a pressure, a slow compression of certainty. He doesn't need to move. Doesn't need to do anything but exist in that space above Jimmy Nuts, both of them knowing the same truth: the work is never truly done, and the watchers never truly sleep.
