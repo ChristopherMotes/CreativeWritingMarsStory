@@ -1,3 +1,5 @@
+# Leo Musk
+
 Leo Musk walks on a mid level platform in Muskashima. The original New Brownsville. He's just returned from Secondshima. He notes, here in the safety of Muskashima, he has no security detail. He's unarmed. Though the wealthiest man in New Brownsville he walks freely among the people.
 
 Around him, the mid-levels pulse with the steady rhythm of the great build. Gangs of workers in weathered copper suits—engineers and fabricators—move with purpose along the scaffolding, their tools singing against the dome's interior ribs. They carry the bearing of frontier pioneers, men and women who know the weight of making something from nothing, carving habitation from hostile red rock. Their sweat stains the underlayers of suits that cost more than houses once did on Earth.
@@ -35,7 +37,7 @@ Leo pauses. He lets frustration pass. "Why do you say internal affairs?"
 
 Jimmy responds, almost as if he's been rehearsing this for years, "First of all that hit was well rehearsed. Yeah, some elite thugs in the other domes could do it, but why? Definitely, Scarlet Mask's guys could and have done that. That was a clear military op. Precision, violence and aggression. No remorse, the slaughtered kids, who were exactly where they expected to be. Get in, kill everything, and cope with what you've done later. The most likely place to find that expertise is SWAT.
 
-Second, you rich guys took everyones ability to defend themselves, right? In Muskashima the dome sub-Government has a monoply on violence. So, to counter that, you had to suspend more rights. You forced everyone to submit to home inspections daily. Arrrested otherwise good people for simple crimes. Sure you rounded up the bad with good, but what was left?
+Second, you rich guys took everyone's ability to defend themselves, right? In Muskashima the dome sub-Government has a monopoly on violence. So, to counter that, you had to suspend more rights. You forced everyone to submit to home inspections daily. Arrested otherwise good people for simple crimes. Sure you rounded up the bad with good, but what was left?
 
 Finally, when you monopolized violence you needed more cops. So, you lowered the standard. What type of employees do you think are attracted to monopolized violence? Attracted to kicking down doors and running through people's things? Good men like the Whisper. Well intentioned with a hell of a violent streak. Or do you think it was all the would be thugs and mobsters who had been coming up before you cleaned the streets.
 
@@ -43,7 +45,7 @@ Crime stats are down because cops commit the crimes. The rat squad hides those c
 
 Leo looks around. Sees the hum of activity. "Jimmy, I think your honesty has you over dramatizing. The Whisper is a vigilante. I know he works with you and other cops frequently. But, he's still a law breaker. Besides, I'm outside with these people, totally safe. I'm way more focused on you than my surroundings. We have freedom and security here."
 
-"Look Mr Musk. I'm down like Disco Brown. Arrest people, put 'em in a rehab center, then return them to society. But, crime doesn't just go away. It just changes its style," Jimmy closes his speech. "Someone needs to watch the watcher. That's supposed to be the rat squad. I'm willing to bet a year of my pay against an hour of yours, SWAT hit the wrong house. They're all the same floor plan on that level. They were after something else. The rat squad couldn't bury it in time."
+"Look Mr.  Musk. I'm down like Disco Brown. Arrest people, put 'em in a rehab center, then return them to society. But, crime doesn't just go away. It just changes its style," Jimmy closes his speech. "Someone needs to watch the watcher. That's supposed to be the rat squad. I'm willing to bet a year of my pay against an hour of yours, SWAT hit the wrong house. They're all the same floor plan on that level. They were after something else. The rat squad couldn't bury it in time."
 
 # Enter the Whisper
 
@@ -58,3 +60,17 @@ He doesn't move. Doesn't breathe audibly. The integrated circuitry hums beneath 
 Jimmy takes a sip of coffee. A small gesture. Ordinary. But his shoulders tense ever so slightly. He knows. Not consciously—not yet—but the animal part of his brain screams that he's being observed. That something dangerous is watching from the dark places. That weight of attention bearing down from above, patient and certain as gravity.
 
 The Whisper's presence is a pressure, a slow compression of certainty. He doesn't need to move. Doesn't need to do anything but exist in that space above Jimmy Nuts, both of them knowing the same truth: the work is never truly done, and the watchers never truly sleep.
+
+Jimmy waits patiently for the Whisper to approach. After a moment he turns about. Jimmy's glare in the gloss black face mask of the Whisper stares back at him. Jimmy reaches into his pocket and draws a comb and runs though his shaggy hair checking the part in the reflection. "Okay," Jimmy starts, "you tell me what you know, then I'll fill in what I know." Jimmy's reflection stares back at him patiently. The stand off ensues for moments if not minutes. "Okay, I'll start," says Jimmy.
+
+Jimmy begins his monologue, "I owe Mr. Musk a years pay. Not bad since cops are paid in room and board. Tell him he can crash at my place if he wants. If you see him before I do. This was burglary-homocide by a SWAT team. The crime scene photos leaked before the rat squad could control it.
+
+It was a family of five. Not six. The sixth guy was the next door neighbor. High responder type. Went inside to see what was up and got pasted. Two families destroyed. If you hear a sobbing woman, that's Maria. Mother of two, now a widow. These fuckers got two families in one night.
+
+Here's how it played out. The Chin's, the family that got whacked, were trying to get back to Earth. They start on Mars good. The husband was an external welder. You know outside the dome. Doing those things robots still can't. The wife was a firmware programmer for robots. Good place in a nice district. Wife gets knocked up and everything is great. We like one child in New Brownsville. Then two, then three. Now they come down here. They're both smart cookies, they realize thay can't make it in New Brownsville. So, they look around Mars. The name's Chinese, but the family is all American. They're not getting to Sinodome or anywhere else.
+
+So, they start working for money on the side to buy a ride back to Earth. See, for folks like Mr. Musk, you just buy a ticket back to Earth. For the Chin's, getting to Mars is easy. Quality employees are needed desparately. Getting back not so easy. They start smart. Odd jobs, donations from the neighbors here. Everyone wants to help the Chin's out. They put the money in the bank. Not just to grow it, but to protect it.
+
+So, they work for a few years and finally build the money to get home. But, folks like this don't go home on a luxury Starship. They pay to stow away on organic cargo hauler. Not three to six weeks back to Earth. Three months to a year. They get their money from bank to pay the smugler for their space.
+
+While they're holding they're holding their cash, the PD does a regular sweep. That kinda cash has to get reported. So, the beat cop does his job. Clean family, no problem. They're just holding cash. Beat cop and the family think nothing of it," Jimmy stops, takes a pull from his coffee, and desparately tries to get a tell from the Whisper.
