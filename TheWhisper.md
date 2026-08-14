@@ -1,3 +1,5 @@
+f
+
 # Leo Musk
 
 Leo Musk walks on a mid level platform in Muskashima. The original New Brownsville. He's just returned from Secondshima. He notes, here in the safety of Muskashima, he has no security detail. He's unarmed. Though the wealthiest man in New Brownsville he walks freely among the people.
@@ -82,3 +84,27 @@ Now they come down here. They're both smart cookies, they realize they can't mak
 So, they work for a few years and finally build the money to get home. But, folks like this don't go home on a luxury Starship. They pay to stow away on organic cargo hauler. Not three to six weeks back to Earth. Three months to a year. They get their money from bank to pay the smuggler for their space," Jimmy breaks his story and breathes a few times before continuing.
 
 "While they're holding their cash, the PD does a regular sweep. That kinda cash has to get reported. So, the beat cop does his job. But it's a clean family, no problem. They're just holding cash. Beat cop and the family think nothing of it," Jimmy stops, takes a pull from his coffee, and desperately tries to get a tell from the Whisper.
+
+He waits. Eyes narrowed, searching that glossy black mirror for any flicker of movement. A twitch at the corner of the jaw line. A shift in weight. A breath that breaks the rhythm. Anything.
+
+Nothing.
+
+The mask reflects Jimmy back at him—his worn face, his tired eyes, his desperation visible in the curve of his shoulders. He's staring at himself and seeing only judgment. The Whisper stands on that beam above him like a monument to stillness itself, unmoved and unmovable. No blink. No breath. Not even the subtle micro-expressions that betray every living thing's emotional state.
+
+Jimmy's jaw tightens. He looks away first, then back to the mask. It's a power play, and they both know it. The Whisper doesn't need words. Doesn't need gesture. Doesn't need anything but the weight of absolute presence and the refusal to yield a single millimeter of ground. He's a wall. An absence. A mirror that gives nothing back but your own reflection.
+
+That's the tell Jimmy won't get. The Whisper's mastery lies not in what he does, but in what he refuses to do. Complete control. Complete silence. Complete commitment to the work in front of them.
+
+Jimmy exhales slowly through his nose and continues. "This kinda plan, folks saving money and smuggling themselves home, happens all the time. My guys verified it. They knew about it before I asked. They tracked it. Saw nothing illegal, from the Muskashima perspective, and moved on. It helped us clear a few missing persons. There's safe guards to prevent cops from doing hits like this though. Separations of duties. It takes collusion to get the information from a beat cop, to a SWAT team to do it a hit like this. See, the beat cop puts the information in the system. He doesn't know what happens to it from there. That's the plan. The AI processes the info and parses it out to other AI, robotic, and human agents. Each agent investigates and enters new data in the system. The AI deterimines what agent to distribute next. Human auditors validate the AI actions regularly, but with sanitized data. So, we don't have Castle Rights here in Muskashima like Secondshima and Vostoshima. But we have auditing trails and firewalls. Cops can investigate without heavy warrants, but we have better more modern systems to protect privacy and safety. This time, the system broke," Jimmy stops and shakes his head.
+
+A whisper emits, "Name."
+
+Jimmy starts again, "We don't know. This is where shit get's tough. The rat squad should be investigating, but they burried it. The streams my guys pulled from the data lake on the inital pass, were gone when we went back to verify. We verified our process as bulletproof. Somebody squashed those data. We still have most of them. If my people go any deeper we're gonna start a war with the rat squad."
+
+Again, the Whisper emits, "Name."
+
+Jimmy looks puzzeled. Then starts, "Oh, the beat cop. Alex Lee. Good kid. Exemplary cop. He doesn't kick doors for inspections. Knocks, then the tenants invite him in. He's the kind of cop a father tells that his daughter just turned 18  if you get my meaning. Everyone here knows it was a SWAT opeartion. Lee was greif stricken about what happened. So he resigned. No idea what's next for him," Jimmy takes moment of silence as if officer Alex Lee had died in the line of duty.
+
+The Whisper begins working his wrist device. Inside his augmented reality mask, unseen by Jimmy, is a simple text message chain. First, the Six Slaughtered article. Then, the word 'Acknowledged.' The Whisper responds to the text, "Start at the top of IA," Then, he texts, "Officer Alex Lee."
+
+Jimmy speaks again while looking off in the distance to mask his rage, "I'm not fuckin' around about war, Whisper. My guys are ready to go to the mat over this shit. Like two of Deep Blue's gangs beefing over territory. This ain't right." Jimmy hears the word 'patience' whispered. When he turns to look at the Whisper, the shadowy figure is already gone. "Fuck you, prick," Jimmy emotes with both amusement and bemusement.
