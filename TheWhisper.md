@@ -1,5 +1,3 @@
-f
-
 # Leo Musk
 
 Leo Musk walks on a mid level platform in Muskashima. The original New Brownsville. He's just returned from Secondshima. He notes, here in the safety of Muskashima, he has no security detail. He's unarmed. Though the wealthiest man in New Brownsville he walks freely among the people.
@@ -51,7 +49,7 @@ Leo looks around. Sees the hum of activity. "Jimmy, I think your honesty has you
 
 "Do what you do, Jimmy. But be careful," Leo says quietly, then disconnects.
 
-Jimmy stares at the dark screen for a moment, then heads down to the mid-levels where the victims apartment sits waiting to tell its story. He picks up coffee on the way—something to hold onto while his mind works.
+Jimmy stares at the dark screen for a moment, then heads down to the apartment-levels where the victims' apartment sits waiting to tell its story. He picks up coffee on the way—something to hold onto while his mind works.
 
 # Enter the Whisper
 
