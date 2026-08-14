@@ -21,7 +21,7 @@ Jimmy Nuts' face fills the screen. "Muskashima Major Crime... Fuck you. I don't 
 
 Jimmy looks off screen, "Why me and not burglary-homicide?"
 
-"That's clearly a hit Jimmy" Leo says, stating a fact without justification.
+"That's clearly a hit, Jimmy" Leo says, stating a fact without justification.
 
 Jimmy clearly looks again. "Mother fucker, that's brutal. Even with the cleaned up crime scene photos for the article, they clearly had the floor plan. They kicked through the door, killed everyone and got out. Kids, a wife. Those bastards hit a family man." Jimmy pauses. "Still what do you want me to do? We got every major player who comes here to buy a drink on our safe streets and launder some money while he's at it bugged, tracked, and monitored every step of the way."
 
@@ -45,7 +45,11 @@ Crime stats are down because cops commit the crimes. The rat squad hides those c
 
 Leo looks around. Sees the hum of activity. "Jimmy, I think your honesty has you over dramatizing. The Whisper is a vigilante. I know he works with you and other cops frequently. But, he's still a law breaker. Besides, I'm outside with these people, totally safe. I'm way more focused on you than my surroundings. We have freedom and security here."
 
-"Look Mr.  Musk. I'm down like Disco Brown. Arrest people, put 'em in a rehab center, then return them to society. But, crime doesn't just go away. It just changes its style," Jimmy closes his speech. "Someone needs to watch the watcher. That's supposed to be the rat squad. I'm willing to bet a year of my pay against an hour of yours, SWAT hit the wrong house. They're all the same floor plan on that level. They were after something else. The rat squad couldn't bury it in time."
+"Look Mr. Musk, I'm down like Disco Brown. Arrest people, put 'em in a rehab center, then return them to society. But, crime doesn't just go away. It just changes its style," Jimmy closes his speech. "Someone needs to watch the watcher. That's supposed to be the rat squad. I'm willing to bet a year of my pay against an hour of yours, SWAT hit the wrong house. They're all the same floor plan on that level. They were after something else. The rat squad couldn't bury it in time."
+
+"Do what you do, Jimmy. But be careful," Leo says quietly, then disconnects.
+
+Jimmy stares at the dark screen for a moment, then heads down to the mid-levels where the victims apartment sits waiting to tell its story. He picks up coffee on the way—something to hold onto while his mind works.
 
 # Enter the Whisper
 
@@ -65,16 +69,16 @@ Jimmy waits patiently for the Whisper to approach. After a moment he turns about
 
 Jimmy begins his monologue, "I owe Mr. Musk a years pay. Not bad since cops are paid in room and board. Tell him he can crash at my place if he wants. If you see him before I do. This was burglary-homicide by a SWAT team. The crime scene photos leaked before the rat squad could control it.
 
-It was a family of five. Not six. The sixth guy was the next door neighbor. High responder type. Went inside to see what was up and got pasted. Two families destroyed. If you hear a sobbing woman, that's Maria. Mother of two, now a widow. These fuckers got two families in one night.
+It was a family of five. Not six. The sixth guy was the next door neighbor. High responder type. Went inside to see what was up and got pasted. Two families destroyed. If you hear a sobbing woman, that's Maria. Mother of two, now a widow. These fuckers got two families in one night," Jimmy breathes out the grief but holds the anger.
 
-Here's how it played out. The Chin's, the family that got whacked, were trying to get back to Earth. They start on Mars good. The husband was an external welder. You know outside the dome. Doing those things robots still can't. The wife was a firmware programmer for robots. Good place in a nice district. Wife gets knocked up and everything is great. We like one child in New Brownsville. Then two, then three. Now they come down here. They're both smart cookies, they realize they can't make it in New Brownsville. It was a family of five. Not six. The sixth guy was the next door neighbor. High responder type. Went inside to see what was up and got pasted. Two families destroyed. If you hear a sobbing woman, that's Maria. Mother of two, now a widow. These fuckers got two families in one night.
+He starts again, "Here's how it played out. The Chin's, the family that got whacked, were trying to get back to Earth. They start on Mars good. The husband was an external welder. You know outside the dome. Doing those things robots still can't. The wife was a firmware programmer for robots. Good place in a nice district. Wife gets knocked up and everything is great. Government roles like one child in New Brownsville. Then a second child is born. The system and the Chin's can manage. Finally a third. So at three kids the system cracks."
 
-Here's how it played out. The Chin's, the family that got whacked, were trying to get back to Earth. They start on Mars good. The husband was an external welder. You know outside the dome. Doing those things robots still can't. The wife was a firmware programmer for robots. Good place in a nice district. Wife gets knocked up and everything is great. We like one child in New Brownsville. Then two, then three. Now they come down here. They're both smart cookies, they realize they can't make it in New Brownsville.
+Jimmy pauses for a second, "I don't know why I'm telling you how the system works. Maybe I just need to say it outloud. But we gotta keep the population correct here on Mars. Some local births are good. Too many overwhelm the system. The system makes consequences.
 
-So, they look around Mars. The name's Chinese, but the family is all American. They're not getting to Sinodome or anywhere else.
+Now they come down here. They're both smart cookies, they realize they can't make it in New Brownsville. They look around Mars for other places. The name's Chinese, but the family is all American. They're not getting to Sinodome or anywhere else. So, they start working for money on the side to buy a ride back to Earth," Jimmy takes another pause to slurp coffee and set his story for the Whipser. He looks at his reflection in the Whisper's mask and starts again.
 
-So, they start working for money on the side to buy a ride back to Earth. See, for folks like Mr. Musk, you just buy a ticket back to Earth. For the Chin's, getting to Mars is easy. Quality employees are needed desperately. Getting back not so easy. They start smart. Odd jobs, donations from the neighbors here. Everyone wants to help the Chin's out. They put the money in the bank. Not just to grow it, but to protect it.
+"See, for folks like Mr. Musk, you just buy a ticket back to Earth. For the Chin's, getting to Mars is easy. Quality employees are needed desperately. Getting back not so easy. The Chin's start smart. Odd jobs, donations from the neighbors here. Everyone wants to help the Chin's out. They put the money in the bank. Not just to grow it, but to protect it.
 
-So, they work for a few years and finally build the money to get home. But, folks like this don't go home on a luxury Starship. They pay to stow away on organic cargo hauler. Not three to six weeks back to Earth. Three months to a year. They get their money from bank to pay the smuggler for their space.
+So, they work for a few years and finally build the money to get home. But, folks like this don't go home on a luxury Starship. They pay to stow away on organic cargo hauler. Not three to six weeks back to Earth. Three months to a year. They get their money from bank to pay the smuggler for their space," Jimmy breaks his story and breathes a few times before continuing.
 
-While they're holding they're holding their cash, the PD does a regular sweep. That kinda cash has to get reported. So, the beat cop does his job. Clean family, no problem. They're just holding cash. Beat cop and the family think nothing of it," Jimmy stops, takes a pull from his coffee, and desperately tries to get a tell from the Whisper.
+"While they're holding their cash, the PD does a regular sweep. That kinda cash has to get reported. So, the beat cop does his job. But it's a clean family, no problem. They're just holding cash. Beat cop and the family think nothing of it," Jimmy stops, takes a pull from his coffee, and desperately tries to get a tell from the Whisper.
