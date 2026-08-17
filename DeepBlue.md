@@ -42,7 +42,7 @@ Torres nods slowly. He reaches for a drink. The man across from him doesn't wait
 
 ---
 
-In a maintenance section of the upper levels, a woman named Kess stands in the dark with three other people she knows only by the callsigns Deep Blue assigned her. They're receiving updated coordinates through a distributed secure channel that nobody watching their wrist devices would recognize as communication. The coordinates point to a Meridian storage facility.
+In a maintenance section of the upper levels, a woman named Kess stands in the dark with three other people she knows only by the callsigns Deep Blue assigned her. They're receiving updated coordinates through a distributed secure channel that nobody watching their wrist devices would recognize as communication. The coordinates point to a Vozhdnya storage facility.
 
 The facility isn't their target.
 
