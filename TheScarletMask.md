@@ -14,10 +14,32 @@ Unbeknownst to the tourists and other viewers around him, Stevie Tanaka was the 
 
 ## The Scarlet Mask
 
-Stevie's bright blue eyes snap open. A slight speckle of brown rays in his blue eyes, his family name and an overdramatized sense of honor, all that remains of his Japanese ansecstry.  His shoulder screams in pain. His head swims, like that night he spent at a Helix Syndicate pleasure center. He tries to sit up and fails.
+Stevie's bright blue eyes snap open. A slight speckle of brown remains in them, and the weight of his family name and his overdramatic sense of honor still clings to him, all that remains of his Japanese ancestry. His shoulder screams in pain. His head swims, like the night he spent at a Helix Syndicate pleasure center. He tries to sit up and fails.
 
-"Sorry, dude," says Monk. "I meant to graze your shoulder. Pressure changes and light refraction happen in Mars domes, too. But, next time someone says wear your plates, wear your fucking plates," Monk annuciates the 'g' for effect.
+"Sorry, dude," says Monk. "I meant to graze your shoulder. Pressure changes and light refraction happen in Mars domes too. But next time someone says, 'wear your plates,' wear your fucking plates," Monk enunciates the g for effect.
 
-"You coulda not shot me," Stevies says flatly.
+"You coulda not shot me," Stevie says flatly.
 
-"How would that have made it different from any other Tuesday?" Monk says so flatly it's commical. "The bullet didn't powder when it hit your ribs. Part of the rib in your chest shattered and sent bone fragments into the axillary artery. Then it shattered a chunk of your scapula. The good news is that you exsanguinated at the hospital. Our Doctor at the med-center didn't have to lie."
+"How would that have made it different from any other Tuesday?" Monk says so flatly it's comedic.
+
+Stevie lifts his head to see the Scarlet Mask. The figure stands in the doorway like a weapon that had decided to wear a symbol. The cloth mask is a plain scarlet wrap with gold tiger-stripe bands cutting across the face in hard diagonal lines, not ceremonial, not theatrical, just deliberate. It does not hide him in the way a thief hides; it identifies him in the way a flag identifies a nation. The mask is simple, almost utilitarian, but it carries the weight of a legacy. It says less about one man than about all the men who wore the same mark before him and all the men who would wear it after.
+
+Below the mask, the armor is built for war in the city. The plates are cut in broken, uneven shapes—black, charcoal, ash gray, rust-red, and muted gold arranged in jagged bands that break the human outline into fragments. It is not camouflage for invisibility. It is camouflage for hesitation. The pattern is meant to distort the silhouette, throw off range estimation, and make a target's eye hesitate for the one second needed to make a mistake. A man in that armor does not disappear; he arrives as a contradiction—a still figure in a moving world, a problem that takes shape at the edge of perception.
+
+Stevie swallows hard, the pain in his shoulder flaring white-hot, and for a moment the room shrinks to the measured stillness of the figure before him. The Scarlet Mask does not move like a movie hero. He moves like a man who has already seen the end of the fight and has decided who is still standing when it is over.
+
+"The bullet didn't powder when it hit your ribs. Part of the rib in your chest shattered and sent bone fragments into the axillary artery. Then it shattered your scapula. The good news is that you exsanguinated at the hospital. Our doctor at the med-center didn't have to lie. We just had to get you to one of our med-centers and fill you up again" says the Scarlet Mask. He hands Stevie a tablet computer with an article.
+
+Stevie looks at the tablet and reads the article aloud. "Stan Wilson was caught in crossfire between the Scarlet Mask's unit and a violent group of unionizers working to unionize the external dome welders." The article shows an image of a Mars Federation Marine Corps captain. The Mask points to the date. It's five Earth years ago.
+
+The Mask takes the tablet, pulls up another article and returns the tablet to Stevie.
+
+Stevie takes the tablet and reads again, his voice flat and shaky: "Stevie Tanaka was pronounced dead after a firefight between the Scarlet Mask and the Vozhdnya Cartel. Tanaka, a Mars native, enlisted in the Martian Marines at eighteen. He completed full Earth-gravity training at the MaSuLG4 training center, qualifying him for both Mars and Earth small-unit combat teams. After two years, he entered the Enlisted to Officer Training Program and was commissioned as a first lieutenant in signals and intelligence. Tanaka was separated administratively for 'conduct unbecoming of an officer, non-criminal.'"
+
+The Scarlet Mask pulls off his mask and tucks it into his armor. Stevie sees Stan Wilson. His head clearing, he scans the room and recognizes the full inner circle: Monk, the Mask's best sniper; Circuits, the leader of AI and cyber operations; and Quartermaster Washington. The Mask starts removing his combat armor. As he strips each piece away, Stevie sees that the armor does not just protect Wilson. It keeps him together.
+
+"Stevie," Wilson says, beginning his monologue, "We've been tracking you for a while. Yes, you reached out to us, but that just made our job easier. We knew who you were when you completed training at MaSuLG4. Not a lot of pure red Martians make it through that program. When you made it through EtO, we really started looking at you. Then your separation sealed it. We were sure we had the right guy. Stevie, you told the commandant of the MFMC he was incompetent, to his face, in quite vulgar language." Wilson gazes at Stevie for a moment. "You weren't selected to be somebody in the organization. You were selected for a specific job."
+
+"This life, this job beats a man," Wilson says, his tone shifting. "Tech and pills can get you through the physical. Eventually, the killing is too much." Wilson swallows hard against his pride. He pulls the cloth scarlet mask from his armor and drapes it across Stevie's chest.
+
+Stevie's reaction is minimal. Quartermaster Washington laughs uproariously. "I think he's too doped up to get the signal." Circuits and Monk join in the laughter. Wilson waits patiently.
