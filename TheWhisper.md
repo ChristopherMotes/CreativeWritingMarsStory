@@ -1,3 +1,5 @@
+ 
+
 # Leo Musk
 
 Leo Musk walks on a mid level platform in Muskashima. The original New Brownsville. He's just returned from Secondshima. He notes, here in the safety of Muskashima, he has no security detail. He's unarmed. Though the wealthiest man in New Brownsville he walks freely among the people.
@@ -104,3 +106,47 @@ Jimmy sees a puzzled vision of himself. Then, he sees the lights come on in his 
 The Whisper begins working his wrist device. Inside his augmented reality mask, unseen by Jimmy, is a simple text message chain. First, the Six Slaughtered article. Then, the word 'Acknowledged.' The Whisper responds to the text, "Start at the top of IA," Then, he texts, "Officer Alex Lee."
 
 Jimmy speaks again while looking off in the distance to mask his rage, "I'm not fuckin' around about war, Whisper. My guys are ready to go to the mat over this shit. Like two of Deep Blue's gangs beefing over territory. This ain't right." Jimmy hears the word 'patience' whispered. When he turns to look at the Whisper, the shadowy figure is already gone. "Fuck you, prick," Jimmy emotes with both amusement and bemusement.
+
+## Officer Alex Lee
+
+Officer Alex Lee no longer wore a shield, but he still wore the uniform as if it had become part of his body. The coat was dark and serviceable, worn thin at the elbows and shoulders from years of duty, and the brass on his collar had lost its shine under the passing of too many sleepless nights. His shirt was pressed too rigidly, as if he still had the habit of standing at attention even when no one was watching. His tie, once neat and plain, had gone slack at the knot; his trousers were clean but faded, the cuffs scuffed by long pavement walks that had become more habit than duty. He had resigned from the force, but the uniform stayed on because he could not bring himself to take it off.
+
+He looked like a man who had been carrying a wound too long to name. His dark hair was cut short and a little uneven, as though he had not cared to keep it tidy in weeks. His jaw was still square and stubborn, but the lines near his eyes had deepened into a permanent exhaustion, and the stare behind them had turned hollow at the edges, as if he had looked too long into something he could never unsee. The skin under his eyes was shadowed, his face leaner than it had been in better days, and the old authority in him remained in the set of his shoulders—but now it looked more like grief than pride. The uniform still fit him like a second skin, but it no longer signaled certainty; it signaled a man who had survived the worst thing a city could ask of him and had been left standing in the aftermath.
+
+He looked, in every way, like a man who had been left behind by the force he once served and by the life he once believed in. Lee steps into a  building side bar by his home. He pulls up to a bar.
+
+"Water," says Lee.
+
+The bantender pull a draft for Lee and sets it infront of him.
+
+"I can't afford that. I'm broke," Lee declares.
+
+"Your tabs been cleared and you have 100 ducats of credit. Well 90," the bantender states flatly.
+
+Leo Musk sits next to Lee. "I'm Leo Musk, Alex."
+
+"I know who you are Mr. Musk," responds Lee.
+
+"I want you to go back to the force. Your community needs you. Men like you bring peace and order. We have a perfect system here, if men like you play your part," Musk says  complimentary.
+
+Alex Lee's face remain broken and empty. "Thanks for the drink."
+
+Leo responds with his finely honed unimpressed look. He holds it for minutes
+
+Lee finally breaks the silence, "I killed those people. I may as well have pulled the trigger myself."
+
+"That's just crazy, Alex," Musk starts. He's calm and smooth in his delivery. Neither fatherly or condescending. Musk just states the items as facts. "A glitch in the system manifested into the tragic muder of six people who didn't do anything to deserve it. You aren't a glitch. When good men like you leave the system, that not a glitch. It's a catastrophic failure," Musk pauses long enough to let it land, but not long enough for Lee to speak. "Alex, when men like you leave the force, that opens the door for bad cops, like the ones that mudered the Chin's, to grow stronger. Just by staying. By doing the job the way you've done it, you keep filth like that out of system. Do the job the way the Chin's wanted you to do it. Do the job the way Maria Krzyżewski needs you too." Musk pauses and draws a breath, "Please."
+
+"Thanks for the drink Mr. Musk," Lee says flatly.
+
+Musk clamly, without judgement leaves.
+
+When Lee walked in the bar, it was lunch time. Now the sun has set. His eyes are bleary from alcoholic stupor. "Are we square?" he slurs to the bartender. The bartender nods. Lee staggers out to the street. He walks a few steps, before his path is interupted by a thump.
+
+The sound lands hard and close, a single impact that carries a weight no drunkard could fake. A shape drops from the dark above the alley mouth and settles into the street like a piece of moving shadow. The Whisper stands in matte black composite armor, charcoal plates catching the spill of light and swallowing it back, his reflective visor a black mirror that shows Alex Lee his own shattered face staring back. The falcon-wing crest on the helmet and chest glints once, small and sharp as a blade, while the broad shoulders and deliberate, economical stance make him feel less like a man than a pressure in the air. He does not move until he chooses to.
+
+"You should move," Lee says drawing into a ready stance. His own reflection communicates his stupidty. Even is sober and unbroken, he'd have nothing for the combat suited Whisper. His hands drop, his body wobbles. "What now?"
+
+The Whisper's head turns ever so slightly. Not to change his field of view, but an order given. Lee knowing he's outmatched and broken obeys. Walking the dark the men arrive at the Whisper's cycle.
+
+The Whisper's cycle is a brutal, sculpted machine built for speed and control rather than comfort. Low and lean, it sits on the street like a predator crouched for launch, its body wrapped in matte black composite with carbon-fiber ribs and razor-straight lines. Twin wing-like structures rise from the rear and lower chassis, not to lift it but to pin it to the ground, channeling air down with the force of a Formula car and keeping the tires planted through corners and hard braking. The wings are sleek and functional, all edge and tension, their surfaces polished to a dark mirror finish that catches the city light like a blade. It is a machine made to move at violence, to hold the road as if it were a weapon and the pavement a rival.
