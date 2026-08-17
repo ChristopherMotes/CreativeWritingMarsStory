@@ -1,4 +1,3 @@
-
 ## Secondshima
 
 From the seventy-second floor of the grandest tower in Secondshima, Stevie Tanaka could see the dome as a machine that had decided it liked freedom more than order.
@@ -12,3 +11,13 @@ From his window, Stevie's mind's eye could see a woman at a street corner stop t
 The city looked free because it had chosen to build freedom into its bones. The law kept to a brief Bill of Rights, the courts were crowded and impatient, and no one wanted to be imprisoned without a clear case reaching a jury. There was no illusion that government was benevolent. The people had built the right to resist into the architecture of the place itself. And from that height, with the dome glowing amber around him and the sky a pale Mars red, the man could almost believe that liberty was not a slogan here, but a city plan.
 
 Unbeknownst to the tourists and other viewers around him, Stevie Tanaka was the team leader for the Scarlet Mask's heaviest-hitting team. He'd been that way for six months. The Scarlet Mask and his teams were vigilantes, even in Secondshima. They were wanted for murder, robbery, aggravated assault, and every other violent crime. They identified themselves as filling a gap in the system—a gap the police were supposed to fill: stopping organized crime and invasions by criminals from other domes. The police failed. In Stevie's view, it was both corruption and the constraints of Secondshima's Bill of Rights. Someone needed to operate outside of corruption and the law to fill that gap. Stevie was here clearing his head for a major operation. The Vozhdnya Cartel from Vostoshima had pushed into Secondshima. Stevie and his team were ready to make them pay. In less than two Martian days, Stevie's life would be over.
+
+## The Scarlet Mask
+
+Stevie's bright blue eyes snap open. A slight speckle of brown rays in his blue eyes, his family name and an overdramatized sense of honor, all that remains of his Japanese ansecstry.  His shoulder screams in pain. His head swims, like that night he spent at a Helix Syndicate pleasure center. He tries to sit up and fails.
+
+"Sorry, dude," says Monk. "I meant to graze your shoulder. Pressure changes and light refraction happen in Mars domes, too. But, next time someone says wear your plates, wear your fucking plates," Monk annuciates the 'g' for effect.
+
+"You coulda not shot me," Stevies says flatly.
+
+"How would that have made it different from any other Tuesday?" Monk says so flatly it's commical. "The bullet didn't powder when it hit your ribs. Part of the rib in your chest shattered and sent bone fragments into the axillary artery. Then it shattered a chunk of your scapula. The good news is that you exsanguinated at the hospital. Our Doctor at the med-center didn't have to lie."
