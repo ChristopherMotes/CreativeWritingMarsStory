@@ -165,8 +165,30 @@ The Whisper twists the throttle just enough to pull the cycle back from the line
 
 The city disappears in a red blur. The Widow Maria's home is still miles away, and the Whisper is already driving toward it as if the world itself is in his way and not the other way around.
 
-The Whisper's cycle finally slows at Alex Lee's aparment block. Not his home, the one he partroled. "Not here, anywhere but here." 
+The Whisper's cycle finally slows at Alex Lee's aparment block. Not his home, the one he partroled. "Not here, anywhere but here."
 
-The Whisper dismounts the cycle, nearly knocking Alex Lee free with him. "No!" says Lee firmly. The broken man in the gloss black reflection delivers a different man. Lee dismounts and sheepishly mopes to the door of the widow Maria Krzyżewski. With a rare, and ever so slight amount of impatience, the Whisper knocks at the door.
+The Whisper dismounts the cycle, nearly knocking Alex Lee free with him. "No!" says Lee firmly. The broken man in the glossy black reflection gives way to a different man. Lee dismounts and sheepishly mopes to the door of Widow Maria Krzyżewski. With a rare, and ever so slight, amount of impatience, the Whisper knocks at the door.
 
-The door opens a crack, then wider, and there she is: Maria Krzyżewski in a dress cut in the old, honest shape of the early 1900s—high collar, full skirt, modest sleeves—yet touched with a hint of futurism in the fabrics and tailoring, the lines cleaner, brighter, more engineered than anything a woman of an older century would have worn. The dress is practical, but not plain. It speaks of women who stayed home and kept the household whole while their husbands risked their lives building streets, towers, and futures in a new world. Her hair is pinned back simply, her face still carrying the bruised exhaustion of grief, but there is a composed strength in her expression that steadies everything around her. In her arms she holds a swaddled infant son, his small face warm against her breast, and the sight of her—tired, humble, and luminous with a kind of maternal grace—makes her look for a moment like a Madonna standing in the doorway of a ruined world, holding the promise of life in her arms.
+The door opens a crack, then wider, and there she is: Maria Krzyżewski in a dress cut in the old, honest shape of the early 1900s—high collar, full skirt, modest sleeves—yet touched with a hint of futurism in the fabrics and tailoring, the lines cleaner, brighter, and more engineered than anything a woman of an older century would have worn. The dress is practical, but not plain. It speaks of women who stayed home and kept the household whole while their husbands risked their lives building streets, towers, and futures in a new world. Her hair is pinned back simply, her face still carrying the bruised exhaustion of grief, but there is a composed strength in her expression that steadies everything around her. In her arms she holds a swaddled infant son, his small face warm against her breast, and the sight of her—tired, humble, and luminous with a kind of maternal grace—makes her look, for a moment, like a Madonna standing in the doorway of a ruined world, holding the promise of life in her arms.
+
+There are times in a man’s life when he loses his composure and emotion. When someone is confronted with days of grief, it is such a time. Those times include when a man is in a drunken stupor. When the adrenaline required to hang on to another man on the back of a cycle moving at 250 km/h through city corners evacuates the body, it sits at the top of that list. Officer Alex Lee was slammed by all three at once. Officer Alex Lee is a strong and brave man, but he collapses to the ground in front of Widow Maria and begins sobbing.
+
+Maria hands her son to the Whisper. "Hold him," she commands unthinkingly. The Whisper takes the child and holds him like a spaceport’s chopsticks holding a starship or booster. The Whisper’s monitoring systems—heart rate, blood pressure, perspiration, and breath rhythm—all exceed levels beyond what he achieved controlling the cycle on the ride here. The fear the Whisper feels is only slightly offset by the humor that such fear is caused by holding a child.
+
+Maria pulls the sobbing, folded man’s head to her womb. She cradles his head there for seconds, even minutes. "You’re drunk, Officer Lee. Why don’t you crash on my couch tonight? Then start work again tomorrow." She walks the shattered man into her home. She returns to take her son from the Whisper. "Why isn’t there a pile of beaten SWAT officers somewhere waiting for conviction and entry into the rehab centers?"
+
+The sun has risen over Muskashima. Senior Patrol Officer Alex Lee stands with Patrol Officer 3rd Class Stone at the door of the Montoya family. "I know what the book says, Stone. Simply knocking is better," instructs Lee.
+
+Mrs. Montoya answers the door. Her face is overwhelmed by a smile. "Officer Lee, come on in. Time for a snack?"
+
+"You won the lottery, Mrs. Montoya. Routine contraband check," says Lee with both warmth and authority.
+
+"Of course. Then stay for coffee. At least a sip," says Mrs. Montoya. "Now that you’re in my home politely, Officer Stone, tell me something about your childhood." Mrs. Montoya draws a cup of coffee for Officer Stone and waits for his tale.
+
+The sun has risen of Muskashima. Senior Patrol Officer Alex Lee stands with Patrol Officer 3rd class Stone at the door of the Montoya family. "I know what the books says, Stone. Simply knocking is better," instructs Lee.
+
+Mrs. Montoya answers the door. Her face is overwhelmed by a smile. "Officer Lee, come on in. Time for a snack?"
+
+"You won the lottery Mrs. Montoya. Routine contraband check," says Lee with both warmth and authority.
+
+"Of course. Then stay for coffee. At least a sip," says Mrs. Montoya. "Now that you're in my home politely, Officer Stone, tell me something about your childhood." Mrs. Montoya draws a cup of coffee for Officer Stone and waits for his tale.
