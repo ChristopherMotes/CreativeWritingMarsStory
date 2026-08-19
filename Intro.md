@@ -8,7 +8,7 @@ At the table, a fourth man asks, "A dog has bitten a child for the third time. H
 
 The Scarlet Mask pets his aging German Shepherd warmly, then responds, "I would have shot the dog the first time, preventing a repeat behavior. Then, I would have put the dog on a pike for all dog owners to see. Dogs biting children is not acceptable."
 
-The Whisper shakes his head. He meticulously brushes the GDS' errant top coat from his leg. "I would take the dog from the streets. Place the creature where it can get the correction it needs. Then I would release it to society as a protective loving member of a family"
+The Whisper shakes his head. He meticulously brushes the GSD's errant top coat from his leg. "I would take the dog from the streets. Place the creature where it can get the correction it needs. Then I would release it to society as a protective loving member of a family"
 
 Deep Blue flips meat at three large dogs beside him. The dogs begin fighting for the morsel of meat. "Sit!" Deep Blue bellows with authority.   He then says, calculatingly, "Desperate dogs are gonna bite. Just make sure they bite each other and not children."
 

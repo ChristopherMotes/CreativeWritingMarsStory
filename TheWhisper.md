@@ -149,7 +149,7 @@ The sound lands hard and close, a single impact that carries a weight no drunkar
 
 "You should move," Lee says drawing into a ready stance. His own reflection communicates his stupidty. Even if sober and unbroken, he'd have nothing for the combat suited Whisper. His hands drop; his body wobbles. "What now?"
 
-The Whisper's head turns ever so slightly. Not to change his field of view, but an order given. Lee, knowing he's outmatched and broken, obeys. Walking the dark the men arrive at the Whisper's cycle.
+The Whisper's head turns ever so slightly. Not to change his field of view, but an order given. Lee, knowing he's outmatched and broken, obeys. Walking through the dark the men arrive at the Whisper's cycle.
 
 The Whisper's cycle is a brutal, sculpted machine built for speed and control rather than comfort. Low and lean, it sits on the street like a predator crouched for launch, its body wrapped in matte black composite with carbon-fiber ribs and razor-straight lines. Twin wing-like structures rise from the rear and lower chassis, not to lift it but to pin it to the ground, channeling air down with the force of a Formula car and keeping the tires planted through corners and hard braking. The wings are sleek and functional, all edge and tension, their surfaces polished to a dark mirror finish that catches the city light like a blade. It is a machine made to move at violence, to hold the road as if it were a weapon and the pavement a rival.
 
