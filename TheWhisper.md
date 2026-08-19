@@ -181,7 +181,7 @@ Maria pulls the sobbing, folded man’s head to her womb. She cradles his head t
 
 The sun has risen over Muskashima. Senior Patrol Officer Alex Lee stands with Patrol Officer 3rd Class Stone at the door of the Montoya family. "I know what the book says, Stone. Simply knocking is better," instructs Lee.
 
-Mrs. Montoya answers the door. Her face is overwhelmed by a smile. "Officer Lee, come on in. Time for a snack?"
+Mrs. Montoya answers the door. Mrs. Montoya is a woman in her mid-forties with the solid, practical build of someone who has kept a household running for years. Her dress follows the same blended lines as Maria’s: a high-collared, modestly sleeved bodice and full skirt in the honest early-1900s shape, but the fabric is a soft, engineered weave that holds its clean lines under the dome’s light and shrugs off dust. The color is a warm, serviceable blue-gray rather than mourning tones. Her dark hair is pinned back in a simple, slightly imperfect knot that has already begun to loosen by mid-morning. Fine lines at the eyes and mouth show habitual smiling more than grief. When she opens the door her face is open and ready, the expression of a woman who still expects the day to include coffee and conversation even when the police are on the threshold. Her face is overwhelmed by a smile. "Officer Lee, come on in. Time for a snack?"
 
 "You won the lottery, Mrs. Montoya. Routine contraband check," says Lee with both warmth and authority.
 

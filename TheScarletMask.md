@@ -1,3 +1,4 @@
+
 ## Secondshima
 
 From the seventy-second floor of the grandest tower in Secondshima, Stevie Tanaka could see the dome as a machine that had decided it liked freedom more than order.
@@ -53,3 +54,47 @@ The door bursts open. The Scarlet Mask enters first. Wilson recognizes the cloth
 Behind him enter Monk, Circuits, Washington, and two team leaders Wilson does not recognize. They wear uniforms by definition: identical dark field jackets over fitted body armor, reinforced trousers, hard boots, gloves, and sealed utility belts. Every piece is practical, replaceable, and deliberately anonymous. Their armor carries no scarlet or gold tiger striping, no bright edge, and no hint of the symbol beyond the disciplined silhouette of the unit itself. The plates are matte black, charcoal, and dull gray, broken only by small functional markings and the muted glow of equipment beneath the fabric. Even their helmets are standardized, their visors dark, their faces reduced to the same unreadable geometry.
 
 Monk moves with a sniper's economy, Circuits with a technician's careful attention, and Washington with the heavy steadiness of a quartermaster who has carried too much equipment to be impressed by any of it. The two unnamed team leaders are nearly interchangeable: broad enough to fill a doorway, quiet enough to disappear into a formation, and dressed so plainly that Wilson cannot tell them apart. They follow the Scarlet Mask without imitating him. He wears the legacy. They wear the organization.
+
+The Scarlet Mask looks at his men. He begins to speak several times, but never completes a word. He's too enraged. He gathers his discipline. "Everybody out. I'm about to have a temper tantrum unbecoming an officer," he says with shocking calmness and professionalism. "Quartermaster, it's your choice."
+
+Monk, Circuits, and the two team leaders dutifully exit the room. Washington finds the chair that normally faces the desk. He moves it closer to the wall before he sits.
+
+When the door shuts, Stevie Tanaka scans the wall, looking for a sweet spot to unleash his rage. When he identifies the correct spot, he calmly draws his MFMC fighting knife from its scabbard and throws it with an assassin's accuracy, burying the blade an inch into the wall. "What the fuck happened? Why were we so fucking far behind the motherfucking Vozhdnya Cartel? They beat us to these apartments by hours. Fuck me, those motherfuckers. I'll kill every one of them with my bare hands," Stevie roars in a verbal run-on sentence.
+
+Washington looks at Wilson with a subtle grin. Wilson returns it, a grin that says this is the right Scarlet Mask for what's ahead.
+
+"You two stop making fuck-me eyes at each other. Six civilians are dead. Two militiamen, two women, and their young sons. Two casualties from our team of nine that went in. And you two motherfuckers are doing foreplay?!" bellows Stevie. "Where the fuck was the militia for that community?"
+
+Wilson responds flatly to Tanaka's only meaningful question. "At work."
+
+Still enraged, the vein in his forehead bulging, Tanaka calmly takes the copy of the Hagakure and softly tosses it onto the couch next to Wilson. He then overturns the desk. Easily replaceable items fly off like flotsam from a sunken warship, falling inches from the safely seated Washington. Tanaka punches the wall several times.
+
+"Were we this volatile a few years ago?" Washington directs the question to Wilson.
+
+"You were for sure. I was close, not this bad though," Wilson responds.
+
+"Fuck the both of you, goddamn shit stains," Tanaka interrupts the conversation.
+
+"Sir," Washington says, deeming Tanaka ready to listen, "it wasn't that bad. Yes, we lost six citizens. But our casualties will be back in the fight before the end of the month." Washington begins to sound a bit prideful. "And you, you bad motherfucker, you turned it into a resounding victory. You adapted to the situation. Third Team, with drone support, outflanked Vozhdnya. Eighteen dead. You got Ichiro Sharapov. He used to sit in a room like this with the head of Vozhdnya. Not anymore. Because you are the Mask."
+
+"Six dead, Washington. Three broken families," says Tanaka, his rage subsiding.
+
+"Stevie," Wilson interjects, "you were an excellent team leader for us and for the Marines. You were a top-flight platoon commander, too. Those are the most important traits for the Scarlet Mask." Wilson gives his words a moment to settle, then starts again. "It's not the only part of wearing that mask. You're also a general officer now. You need to see the long game. Casualties happen in war. You're also the CEO of a small company. All of those things mean you must accept moments like this as part of the job."
+
+Wilson pauses to regain his thoughts. He sets his jaw and buries his pride. "When I told you the killing became too much, do you think I was talking about Sharapov and his goons? No, it's the good citizens of Secondshima who die in the fight for liberty."
+
+"Two mothers and two boys. Not warfighters!" retorts Tanaka.
+
+Washington breaks in. "I was raised on MaSuLG5, the civilian O'Neal Cylinder. My dad was an external welder. He could have chosen any dome, but we would have been part of that dome's jumpsuit class. My dad always chose Secondshima. Being free of the evils of government was always worth the risk." Washington closes his eyes. "One day, while my dad was at work, the Helix Syndicate raided the neighborhood to take women for its pleasure centers. I was nine. They hit my house. I fought with everything I had to protect them, but I was nine. They got my mother and my sister."
+
+The pain of old scars paints Washington's face. "But you, the Scarlet Mask, you hit those motherfuckers hard. My mom and sister died in the crossfire before they could be pimped out. Ten bodies were crucified in the tubes between Vostoshima and Secondshima. My dad and I sat before those dying men every day." Washington breathes pride into his words. "He told me, 'Sometimes this is the price of freedom.' Freedom is worth it, sir."
+
+Wilson begins a tale of his own. "My first act as the Scarlet Mask was in a different time. My predecessor fought with gangs. I was in a relative time of peace. There was a citizen who had been selling his nine-year-old daughter into prostitution. Our respect for parental rights doesn't let the government do much about evil parenting. Our Castle Rights make it easy to hide evil from prying eyes."
+
+Wilson continues with a dose of regret and pride. "I caught that motherfucker going to work. The militia didn't stop me because everyone knew. They just wouldn't violate his rights as a parent or invade his castle. I would. I beat him savagely. I shot him, then decapitated him. I put his head on a pike for everyone to see."
+
+Wilson finds a moment of sorrow. "That girl, the one who was prostituted at nine years old, hates your guts, Scarlet Mask. She always will because you put her father's head on a pike."
+
+Washington gives Wilson a simple look of validation. "And Stevie, make no mistake. We weren't hours behind on this. We were months or maybe a year," Wilson changes tone. "Vozdnya used our Castle Rights against us. They bought their way into that commmunity. Hid in those homes, then today struck in the open. We found out just in time. Not too late. Those women and children in the crossfire. Those militiamen that were too few, but stood against a greater force anyways. That's the price of our society. That's the price to be free of government tyranny."
+
+Washington adds, "When we think of 'The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants,' we think of heroes, minutemen, and militiamen. Sometimes it's the blood of two moms that refreshes that tree."
