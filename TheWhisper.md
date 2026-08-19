@@ -107,6 +107,8 @@ The Whisper begins working his wrist device. Inside his augmented reality mask, 
 
 Jimmy speaks again while looking off in the distance to mask his rage, "I'm not fuckin' around about war, Whisper. My guys are ready to go to the mat over this shit. Like two of Deep Blue's gangs beefing over territory. This ain't right." Jimmy hears the word 'patience' whispered. When he turns to look at the Whisper, the shadowy figure is already gone. "Fuck you, prick," Jimmy emotes with both amusement and bemusement.
 
+# Good Cop Bad Cop
+
 ## Officer Alex Lee
 
 Officer Alex Lee no longer wore a shield, but he still wore the uniform as if it had become part of his body. The coat was dark and serviceable, worn thin at the elbows and shoulders from years of duty, and the brass on his collar had lost its shine under the passing of too many sleepless nights. His shirt was pressed too rigidly, as if he still had the habit of standing at attention even when no one was watching. His tie, once neat and plain, had gone slack at the knot; his trousers were clean but faded, the cuffs scuffed by long pavement walks that had become more habit than duty. He had resigned from the force, but the uniform stayed on because he could not bring himself to take it off.
@@ -117,7 +119,7 @@ He looked, in every way, like a man who had been left behind by the force he onc
 
 "Water," says Lee.
 
-The bantender pull a draft for Lee and sets it infront of him.
+The bantender pulls a draft for Lee and sets it infront of him.
 
 "I can't afford that. I'm broke," Lee declares.
 
@@ -129,7 +131,7 @@ Leo Musk sits next to Lee. "I'm Leo Musk, Alex."
 
 "I want you to go back to the force. Your community needs you. Men like you bring peace and order. We have a perfect system here, if men like you play your part," Musk says  complimentary.
 
-Alex Lee's face remain broken and empty. "Thanks for the drink."
+Alex Lee's face remains broken and empty. "Thanks for the drink."
 
 Leo responds with his finely honed unimpressed look. He holds it for minutes
 
@@ -147,7 +149,7 @@ The sound lands hard and close, a single impact that carries a weight no drunkar
 
 "You should move," Lee says drawing into a ready stance. His own reflection communicates his stupidty. Even if sober and unbroken, he'd have nothing for the combat suited Whisper. His hands drop; his body wobbles. "What now?"
 
-The Whisper's head turns ever so slightly. Not to change his field of view, but an order given. Lee knowing he's outmatched and broken obeys. Walking the dark the men arrive at the Whisper's cycle.
+The Whisper's head turns ever so slightly. Not to change his field of view, but an order given. Lee, knowing he's outmatched and broken, obeys. Walking the dark the men arrive at the Whisper's cycle.
 
 The Whisper's cycle is a brutal, sculpted machine built for speed and control rather than comfort. Low and lean, it sits on the street like a predator crouched for launch, its body wrapped in matte black composite with carbon-fiber ribs and razor-straight lines. Twin wing-like structures rise from the rear and lower chassis, not to lift it but to pin it to the ground, channeling air down with the force of a Formula car and keeping the tires planted through corners and hard braking. The wings are sleek and functional, all edge and tension, their surfaces polished to a dark mirror finish that catches the city light like a blade. It is a machine made to move at violence, to hold the road as if it were a weapon and the pavement a rival.
 
@@ -171,11 +173,11 @@ The Whisper dismounts the cycle, nearly knocking Alex Lee free with him. "No!" s
 
 The door opens a crack, then wider, and there she is: Maria Krzyżewski in a dress cut in the old, honest shape of the early 1900s—high collar, full skirt, modest sleeves—yet touched with a hint of futurism in the fabrics and tailoring, the lines cleaner, brighter, and more engineered than anything a woman of an older century would have worn. The dress is practical, but not plain. It speaks of women who stayed home and kept the household whole while their husbands risked their lives building streets, towers, and futures in a new world. Her hair is pinned back simply, her face still carrying the bruised exhaustion of grief, but there is a composed strength in her expression that steadies everything around her. In her arms she holds a swaddled infant son, his small face warm against her breast, and the sight of her—tired, humble, and luminous with a kind of maternal grace—makes her look, for a moment, like a Madonna standing in the doorway of a ruined world, holding the promise of life in her arms.
 
-There are times in a man’s life when he loses his composure and emotion. When someone is confronted with days of grief, it is such a time. Those times include when a man is in a drunken stupor. When the adrenaline required to hang on to another man on the back of a cycle moving at 250 km/h through city corners evacuates the body, it sits at the top of that list. Officer Alex Lee was slammed by all three at once. Officer Alex Lee is a strong and brave man, but he collapses to the ground in front of Widow Maria and begins sobbing.
+Officer Alex Lee is confronted with days of grief and emotionally weakened from an alcoholic stupor. When the adrenaline, required to hang on to another man on the back of a cycle moving at 250 km/h through city corners, evacuates from his body, the compounded weight buckles his knees. In front of the widow Maria, he begins sobbing.
 
 Maria hands her son to the Whisper. "Hold him," she commands unthinkingly. The Whisper takes the child and holds him like a spaceport’s chopsticks holding a starship or booster. The Whisper’s monitoring systems—heart rate, blood pressure, perspiration, and breath rhythm—all exceed levels beyond what he achieved controlling the cycle on the ride here. The fear the Whisper feels is only slightly offset by the humor that such fear is caused by holding a child.
 
-Maria pulls the sobbing, folded man’s head to her womb. She cradles his head there for seconds, even minutes. "You’re drunk, Officer Lee. Why don’t you crash on my couch tonight? Then start work again tomorrow." She walks the shattered man into her home. She returns to take her son from the Whisper. "Why isn’t there a pile of beaten SWAT officers somewhere waiting for conviction and entry into the rehab centers?"
+Maria pulls the sobbing, folded man’s head to her womb. She cradles his head there for seconds, even minutes. "You’re drunk, Officer Lee. Why don’t you crash on my couch tonight? Then start work again tomorrow." She walks the rebuilding man into her home. She returns to take her son from the Whisper. "Why isn’t there a pile of beaten SWAT officers somewhere waiting for conviction and entry into the rehab centers?"
 
 The sun has risen over Muskashima. Senior Patrol Officer Alex Lee stands with Patrol Officer 3rd Class Stone at the door of the Montoya family. "I know what the book says, Stone. Simply knocking is better," instructs Lee.
 
@@ -184,11 +186,3 @@ Mrs. Montoya answers the door. Her face is overwhelmed by a smile. "Officer Lee,
 "You won the lottery, Mrs. Montoya. Routine contraband check," says Lee with both warmth and authority.
 
 "Of course. Then stay for coffee. At least a sip," says Mrs. Montoya. "Now that you’re in my home politely, Officer Stone, tell me something about your childhood." Mrs. Montoya draws a cup of coffee for Officer Stone and waits for his tale.
-
-The sun has risen of Muskashima. Senior Patrol Officer Alex Lee stands with Patrol Officer 3rd class Stone at the door of the Montoya family. "I know what the books says, Stone. Simply knocking is better," instructs Lee.
-
-Mrs. Montoya answers the door. Her face is overwhelmed by a smile. "Officer Lee, come on in. Time for a snack?"
-
-"You won the lottery Mrs. Montoya. Routine contraband check," says Lee with both warmth and authority.
-
-"Of course. Then stay for coffee. At least a sip," says Mrs. Montoya. "Now that you're in my home politely, Officer Stone, tell me something about your childhood." Mrs. Montoya draws a cup of coffee for Officer Stone and waits for his tale.
