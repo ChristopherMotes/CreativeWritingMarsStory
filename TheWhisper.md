@@ -87,7 +87,7 @@ He waits. Eyes narrowed, searching that glossy black mirror for any flicker of m
 
 Nothing.
 
-The mask reflects Jimmy back at him—his worn face, his tired eyes, his desperation visible in the curve of his shoulders. He's staring at himself and seeing only judgment. The Whisper stands on that beam above him like a monument to stillness itself, unmoved and unmovable. No blink. No breath. Not even the subtle micro-expressions that betray every living thing's emotional state.
+The mask reflects Jimmy back at him—his worn face, his tired eyes, his desperation visible in the curve of his shoulders. He's staring at himself and seeing only judgment. The Whisper stands looming like a monument to stillness itself, unmoved and unmovable. No blink. No breath. Not even the subtle micro-expressions that betray every living thing's emotional state.
 
 Jimmy's jaw tightens. He looks away first, then back to the mask. It's a power play, and they both know it. The Whisper doesn't need words. Doesn't need gesture. Doesn't need anything but the weight of absolute presence and the refusal to yield a single millimeter of ground. He's a wall. An absence. A mirror that gives nothing back but your own reflection.
 
