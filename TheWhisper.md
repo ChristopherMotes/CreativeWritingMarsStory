@@ -186,3 +186,61 @@ Mrs. Montoya answers the door. Mrs. Montoya is a woman in her mid-forties with t
 "You won the lottery, Mrs. Montoya. Routine contraband check," says Lee with both warmth and authority.
 
 "Of course. Then stay for coffee. At least a sip," says Mrs. Montoya. "Now that you’re in my home politely, Officer Stone, tell me something about your childhood." Mrs. Montoya draws a cup of coffee for Officer Stone and waits for his tale.
+
+## Internal Affairs Director Wade Olsen
+
+Leo Musk stands before the Muskashima Central Police Headquarters. Leo liked the building and most of the men inside. The facade was a deliberate marriage of old municipal grandeur and new-world ambition: limestone and dark ironwork rising in layered, classical proportions, with tall arched windows, a broad stone stair, and a carved cornice like a 1900s New York city hall that had somehow been rebuilt for the age of drones and glass. But the lines were cleaner, taller, and sharper than anything old Manhattan had ever known, as if the building had inherited the dignity of the old century and the confidence of the next one.
+
+Leo enters the building. He thinks about visiting his friend Jimmy Nuts. He takes a moment to appreciate how the world he lives in allows a man of Leo's wealth and status to view Jimmy as a friend. But today he is on business. He looks toward the desk sergeant at the center of the entry-exit kiosk. "I'd like to visit Internal Affairs Director Wade Olsen," Musk says plainly.
+
+"No can do, Mr. Musk," Sgt. Murdoch says politely. "Law enforcement only. I can call him to come down."
+
+"Sgt. Murdoch, I'd like to see him privately," Leo adds respectfully. "You know who I am. You know I'll get in."
+
+"I can call whoever you'd like, Mr. Musk. But you're not getting past me without a shield or the proper pass," the desk sergeant declares.
+
+Leo draws his Emceedee and face-calls the police commissioner. "Albert, you have a wonderful desk sergeant named Murdoch stopping me from seeing Wade Olsen. First, I'd like his record updated to note his professionalism, bearing, and courtesy. Also his use of authority. Then I'd like access to visit Director Olsen in his office."
+
+Sgt. Murdoch's console alerts him. "Yes, sir, Commissioner." Murdoch adjusts his view to Leo. "Smile for the camera, Mr. Musk." The gate opens, and Murdoch hands Leo a badge as he passes through. "Take the main elevator to the top. Then turn right at the doors and follow the hall to 70105. That's Director Olsen."
+
+Leo now stands at the doorway to Wade Olsen's office. He collects himself for a moment before knocking.
+
+After Leo knocks, it takes a minute or two before Director Olsen opens the door. The man behind it wears a tailored climate suit in a dark, expensive cut: conductive threads woven into the fabric, subtle thermal regulation built into the weave, and a fit so precise that it catches Leo's eye.
+
+"Leo Musk," Olsen says with distrust. "How did you get in here?"
+
+"I'd like to have a chat with you, Director Olsen," Leo says.
+
+"Make an appointment. I'll come see you when I'm ready," Olsen declares.
+
+Leo responds with an unimpressed look.
+
+"I guess you ain't leavin'," Olsen says. He then waves Leo into his office.
+
+Musk, having already collected the details he needs, drops his planned speech and questions. "What's being done about the Chin/Krzyżewski hit?"
+
+"Burglary-homicide. Cops don't do that," Olsen responds. Olsen is clearly not a man of patience.
+
+"My sources disagrees. It was an SWAT hit and robbery," Musk says, with his usual curtness.
+
+"Fuck you, I don't work for you!" Olsen's body language gave the lie to the words. He came up out of the chair too quickly, the shock of being baited turning into a hard, defensive posture: shoulders high, chin thrust forward, jaw working as if he needed to make the threat louder than the fear in him. One hand went to the badge at his hip, then to the edge of his desk, clutching at the authority like a man who understood the difference between power and bravery only in the abstract. The glass of his office and the polished metal at his chest were not courage; they were a mask, a way of making a weak man seem larger than he was.
+
+Leo did not step back. He leaned forward with the unhurried certainty of a man who knew exactly what he was doing and had no need to prove it. He put his weight into the doorway and let the room register the difference between the badge in Olsen's hand and the man who could walk into the office and make it feel smaller by being there. The gesture was simple, decisive, and without threat: a man standing in his own ease while another man hid behind institutional cloth and steel.
+
+"I see," says Musk calmly as he exits the room.
+
+"That's right, you motherfucker. Run away. You don't get to accuse me of anything," Olsen fires at the departing Musk.
+
+In the hallway, Musk completes a text chain on his Emceedee. The chain reads: 'Start at the top of IA,' 'Officer Alex Lee,' 'Resolved.' Musk adds, 'Director Olsen must go.' He then returns to his workday.
+
+It's a new morning in Muskashima. A construction engineer sits next to a financial specialist. The construction engineer is dressed rugged but comfortably, in attire appropriate for a long day of labor in the comfort of the dome. The financial specialist is in business-casual dress, a man who sits at a desk and works with his brain instead of brawn.
+
+"Do you see the news?" the construction engineer asks.
+
+"Something special?" responds the financial consultant, both curt and polite.
+
+"Looks like the Whisper beat hell out of the Director of Police Internal Affairs," the heartier man states. "Says here, Olsen was returning from Vostoshima with a prostitute when the Whisper caught him. It goes on to say Olsen will do five years of extreme citizen rehab, then another five for in controlled housing. It says bringing the prostitute back from Vostoshima is a major felony for sex trafficking. Also says Olsen will spend three months in medical rehab before beginning his sentene."
+
+The man of finance looks at the picture in the article. "A thrashing like that doesn't come for sex trafficking."
+
+"You bet not," says the engineer. "I bet it has to do with those folks who were murdered down in the apartments. Or it was personal, like he pissed the Whisper off."
