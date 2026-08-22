@@ -221,7 +221,7 @@ Musk, having already collected the details he needs, drops his planned speech an
 
 "Burglary-homicide. Cops don't do that," Olsen responds. Olsen is clearly not a man of patience.
 
-"My sources disagrees. It was an SWAT hit and robbery," Musk says, with his usual curtness.
+"My sources disagree. It was an SWAT hit and robbery," Musk says, with his usual curtness.
 
 "Fuck you, I don't work for you!" Olsen's body language gave the lie to the words. He came up out of the chair too quickly, the shock of being baited turning into a hard, defensive posture: shoulders high, chin thrust forward, jaw working as if he needed to make the threat louder than the fear in him. One hand went to the badge at his hip, then to the edge of his desk, clutching at the authority like a man who understood the difference between power and bravery only in the abstract. The glass of his office and the polished metal at his chest were not courage; they were a mask, a way of making a weak man seem larger than he was.
 
