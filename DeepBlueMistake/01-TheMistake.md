@@ -1,3 +1,5 @@
+d
+
 # The Mistake
 
 Three weeks after Sophie comes home from the medical facility, fully recovered, Marcus Reeves is back in Dr. Chen's office for a routine check-up. Sophie's immune system is adapting to Mars. She's healthy. Dr. Chen smiles at her, makes notes, tells Reeves that he can worry a little less now.
