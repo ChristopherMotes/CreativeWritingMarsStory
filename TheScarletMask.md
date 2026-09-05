@@ -17,15 +17,15 @@ Unbeknownst to the tourists and other viewers around him, Stevie Tanaka was the 
 
 Stevie's bright blue eyes snap open. A slight speckle of brown remains in them, and the weight of his family name and his overdramatic sense of honor still clings to him, all that remains of his Japanese ancestry. His shoulder screams in pain. His head swims, like the night he spent at a Helix Syndicate pleasure center. He tries to sit up and fails.
 
-"Sorry, dude," says Monk. "I meant to graze your shoulder. Pressure changes and light refraction happen in Mars domes too. But next time someone says, 'wear your plates,' wear your fucking plates," Monk enunciates the g for effect.
+"Sorry, dude," says Monk. "I meant to graze your shoulder. Pressure changes and light refraction happen in Mars domes, too. But next time someone says, 'wear your plates,' wear your fucking plates," Monk enunciates the g for effect.
 
 "You coulda not shot me," Stevie says flatly.
 
-"How would that have made it different from any other Tuesday?" Monk says so flatly it's comedic.
+"Initiative, sir." Monk says so flatly it's comedic.
 
 Stevie lifts his head to see the Scarlet Mask. The figure stands in the doorway like a weapon that had decided to wear a symbol. The cloth mask is a plain scarlet wrap with gold tiger-stripe bands cutting across the face in hard diagonal lines, not ceremonial, not theatrical, just deliberate. It does not hide him in the way a thief hides; it identifies him in the way a flag identifies a nation. The mask is simple, almost utilitarian, but it carries the weight of a legacy. It says less about one man than about all the men who wore the same mark before him and all the men who would wear it after.
 
-Below the mask, the armor is built for war in the city. The plates are cut in broken, uneven shapes—black, charcoal, ash gray, rust-red, and muted gold arranged in jagged bands that break the human outline into fragments. It is not camouflage for invisibility. It is camouflage for hesitation. The pattern is meant to distort the silhouette, throw off range estimation, and make a target's eye hesitate for the one second needed to make a mistake. A man in that armor does not disappear; he arrives as a contradiction—a still figure in a moving world, a problem that takes shape at the edge of perception.
+Below the mask, the armor is built for war in the city. The plates are colored in broken, uneven shapes—black, charcoal, ash gray, rust-red, and muted gold arranged in jagged bands that break the human outline into fragments. It is not camouflage for invisibility. It is camouflage for hesitation. The pattern is meant to distort the silhouette, throw off range estimation, and make a target's eye hesitate for the one second needed to make a mistake. A man in that armor does not disappear; he arrives as a contradiction—a still figure in a moving world, a problem that takes shape at the edge of perception.
 
 Stevie swallows hard, the pain in his shoulder flaring white-hot, and for a moment the room shrinks to the measured stillness of the figure before him. The Scarlet Mask does not move like a movie hero. He moves like a man who has already seen the end of the fight and has decided who is still standing when it is over.
 
@@ -41,7 +41,7 @@ The Scarlet Mask pulls off his mask and tucks it into his armor. Stevie sees Sta
 
 "Stevie," Wilson says, beginning his monologue, "We've been tracking you for a while. Yes, you reached out to us, but that just made our job easier. We knew who you were when you completed training at MaSuLG4. Not a lot of pure red Martians make it through that program. When you made it through EtO, we really started looking at you. Then your separation sealed it. We were sure we had the right guy. Stevie, you told the commandant of the MFMC he was incompetent, to his face, in quite vulgar language." Wilson gazes at Stevie for a moment.
 
-"This life, this job beats a man," Wilson says, his tone shifting. "Tech and pills can get you through the physical. Eventually, the killing is too much." Wilson swallows hard against his pride. He pulls the cloth scarlet mask from his armor and drapes it across Stevie's chest. The Scarlet Mask is gone; only Wilson remains in the room.
+"This life, this job beats a man," Wilson says, his tone shifting. "Tech and pills can get you through the physical. Eventually, the killing is too much." Wilson swallows hard against his pride. He pulls the cloth scarlet mask from his armor and drapes it across Stevie's chest. "And each man wears the mask for a specific cycle." The Scarlet Mask is gone; only Wilson remains in the room.
 
 Stevie's reaction is minimal. Quartermaster Washington laughs uproariously. "I think he's too doped up to get the signal." Circuits and Monk join in the laughter. Wilson waits patiently.
 
@@ -85,7 +85,7 @@ Washington looks at Wilson with a subtle grin. Wilson returns it, a grin that sa
 
 Wilson responds flatly to Tanaka's only meaningful question. "At work."
 
-Still enraged, the vein in his forehead bulging, Tanaka calmly takes the copy of the Hagakure and softly tosses it onto the couch next to Wilson. He then overturns the desk. Easily replaceable items fly off like flotsam from a sunken warship, falling inches from the safely seated Washington. Tanaka punches the wall several times. Washington grabs the scarlet mask.
+Still enraged, the vein in his forehead bulging, Tanaka calmly takes the copy of the Hagakure and softly tosses it onto the couch next to Wilson. He then overturns the desk. Easily replaceable items fly off like flotsam from a sunken warship, including a scarlet and gold rag, falling inches from the safely seated Washington. Tanaka punches the wall several times. Washington grabs the scarlet mask.
 
 "Were we this volatile a few years ago?" Washington directs the question to Wilson.
 
@@ -105,7 +105,7 @@ Wilson pauses to regain his thoughts. He starts to stand up for presence. His ca
 
 Washington breaks in. "I was raised on MaSuLG5, the civilian O'Neal Cylinder. My dad was an external welder. He could have chosen any dome, but we would have been part of that dome's jumpsuit class. My dad always chose Secondshima. Being free of the evils of government was always worth the risk." Washington closes his eyes. "One day, while my dad was at work, the Helix Syndicate raided the neighborhood to take women for its pleasure centers. I was nine. They hit my house. I fought with everything I had to protect them, but I was nine. They got my mother and my sister."
 
-The pain of old scars paints Washington's face. "But you, the Scarlet Mask, you hit those motherfuckers hard. My mom and sister died in the crossfire before they could be pimped out. Ten bodies were crucified in the tubes between Vostoshima and Secondshima. My dad and I sat before those dying men every day." Washington breathes pride into his words. "He told me, 'Sometimes this is the price of freedom.' Freedom is worth it, sir."
+The pain of old scars paints Washington's face. "But you, the Scarlet Mask, you hit those motherfuckers hard. My mom and sister died in the crossfire before they couldn't be pimped out. Ten bodies were crucified in the tubes between Vostoshima and Secondshima. My dad and I sat before those dying men every day." Washington breathes pride into his words. "He told me, 'Sometimes this is the price of freedom.' Freedom is worth it, sir."
 
 Wilson, looking to his cane then thinking better of it, begins a tale of his own. "My first act as the Scarlet Mask was in a different time. My predecessor fought with gangs. I was in a relative time of peace. There was a citizen who had been selling his nine-year-old daughter into prostitution. Our respect for parental rights doesn't let the government do much about evil parenting. Our Castle Rights make it easy to hide evil from prying eyes."
 
