@@ -74,6 +74,52 @@ Teachers pulled students into classrooms. Interior shutters closed. Doors sealed
 
 Remain indoors. Stay away from windows. Await police instructions.
 
+In Room 214, a teacher pushed twelve students beneath the windows and pulled the blinds down by hand. The last blind jammed halfway. A boy reached for it, and she slapped his hand away harder than she meant to.
+
+"Don't touch the windows."
+
+"Are they shooting at us?" he whispered.
+
+"No," she said.
+
+Another burst struck the pavement outside. The glass trembled in its frame.
+
+The boy looked at her. "That sounded like us."
+
+She swallowed. "They are shooting outside. The police are coming."
+
+"My sister is in the gym."
+
+"She's with a teacher. Everyone is coming inside."
+
+"You said they weren't shooting at us."
+
+The teacher crouched lower, bringing herself level with him. Around them, the other children tried not to cry. One girl held both hands over her mouth. Another kept repeating her mother's name as if saying it quietly enough might make the name answer.
+
+"I said they are not supposed to be shooting at us," the teacher said. "That is different. Stay down."
+
+In the hallway, a younger teacher moved from door to door, checking locks. A student caught her sleeve.
+
+"Are we going to die?"
+
+The teacher looked toward the sealed exterior doors, then back at the child's face.
+
+"Not today," she said.
+
+She did not know whether it was a promise or a lie.
+
+At the far end of the building, the principal tried to reach the police dispatcher. The first call disconnected. The second was answered by a voice buried beneath overlapping reports.
+
+"Central Middle School, we have children in lockdown," the principal said. "We need officers at every entrance."
+
+"Units are responding. Keep everyone inside."
+
+"There are still students outside the gym."
+
+"How many?"
+
+The principal looked through the security monitor. The image shook with every distant impact. "I don't know. The cameras are down."
+
 VPD responded immediately.
 
 The 25mm systems prevented the police from using the connecting street. They filled the route with rust-colored and beige gas. The gas was dangerous, but the VPD officers who recognized the colors understood the larger threat.
@@ -86,7 +132,29 @@ Others believed the message boards. They had read that the Scarlet Mask was thea
 
 Both groups remained at the school.
 
-They protected the children.
+They protected the children because there was no other choice. They formed a perimeter around a building full of frightened students while the Men of the Mask used that fear as the centerpiece of their maneuver. The police were doing the necessary thing. The Scarlet Mask was using the necessity against them.
+
+When the first officers reached the school doors, a boy pressed his face against the glass before a teacher pulled him back.
+
+"Are you the good guys?" he asked.
+
+The officer looked at the rifle in his hands, then at the gas spreading across the street behind him.
+
+"We're the police," he said.
+
+"That's not what I asked."
+
+The officer had no answer that would fit through the door. He raised one gloved hand and pointed the boy toward the interior hallway.
+
+"Stay with your teacher. We're going to keep this building safe."
+
+The boy hesitated. "Can you make them stop?"
+
+The officer looked toward the explosions beyond the school wall.
+
+"We're going to get you through this."
+
+It was the closest thing to a promise he could make.
 
 ---
 
@@ -176,13 +244,13 @@ The Scarlet Mask found a piece of broken metal in the debris. Behind the sealed 
 
 No one stopped him.
 
-Circuits turned back to the police channels. VPD was still holding the school perimeter. The children were alive. The police had not reached the headquarters. The operation had achieved what it came to achieve.
+Circuits turned back to the police channels. VPD was still holding the school perimeter. The children were alive. The police had not reached the headquarters. The operation had achieved what it came to achieve. It had also turned a school full of children into a fixed point on a tactical map: a reason for VPD to stop, a reason for the police to choose caution, and a living audience for violence they could not see.
 
 To Marcus Reaves, watching the brutal beating on a screen, the event looked like standard vigilante violence.
 
 The rage terrified him.
 
-But seeing the people who had hurt Dr. Chin's daughter receive punishment filled him with satisfaction.
+But seeing the people who had hurt Dr. Chin's daughter receive punishment filled him with satisfaction. He hated that the satisfaction survived the children's fear. He hated that both things were true.
 
 Marcus did not know that the Scarlet Mask had not come to save Vostoshima.
 
