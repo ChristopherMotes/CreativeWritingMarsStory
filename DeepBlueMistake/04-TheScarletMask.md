@@ -1,0 +1,189 @@
+# The Scarlet Mask
+
+The Scarlet Mask's team identified the location of Free Mars New Generation three days before the operation.
+
+FMNG was small enough that Deep Blue could contain it. Vostoshima Police could eventually dismantle it. If FMNG had been merely another criminal organization, the Men of the Mask would have left it to them.
+
+But FMNG had taken the name of Free Mars and disgraced it.
+
+Free Mars was the name of the revolutionary movement that made Martian liberty possible. To Stevie Tanaka, FMNG's trafficking, extortion, and predation were not simply crimes. They were an insult to the dead and to everyone who had carried the name honestly.
+
+That was why he crossed into Vostoshima.
+
+He was not coming to protect the schoolchildren. He was not coming to restore public order. He was not coming to help Deep Blue maintain the criminal balance. He was coming because he was furious, and because FMNG had made itself a personal matter.
+
+Everyone outside the Men of the Mask could interpret the operation as ordinary vigilante violence. The police would call it a gang assault. Reporters would call the Scarlet Mask another masked extremist. Message boards would argue over whether he was a terrorist, a hero, or an unusually theatrical gang leader.
+
+Stevie and Circuits understood what it really was.
+
+It was a punitive expedition against a false heir to Free Mars.
+
+---
+
+The force was divided into three elements: Scouting, Deception, and Maneuver; Command and Control; and Advanced Combat Operations. The SDM teams had no named members. The only named men in the operation were the Scarlet Mask and Circuits.
+
+Each element operated two Tesla Cybertruck-inspired combat vehicles. Each vehicle carried three Men of the Mask: a driver, a team leader, and an operator. The vehicles could function independently as three-man units or combine into six-man teams.
+
+The Men of the Mask wore identical dark field uniforms over fitted body armor. The uniforms were matte black, charcoal, and dull gray, with reinforced trousers, hard boots, gloves, sealed utility belts, and standardized helmets. No one wore a personal insignia. No one wore a name patch. They were deliberately interchangeable.
+
+The Scarlet Mask was the exception.
+
+His combat armor broke the human silhouette into matte black, charcoal, ash gray, rust-red, and muted gold. Composite plates protected his chest, shoulders, forearms, and thighs. Synthetic material covered the joints, allowing him to move quickly without sacrificing protection. Scarlet-and-gold tiger striping ran across the combat helmet and visor housing in hard, angular bands.
+
+The helmet enclosed his entire face. Its reflective visor gave the enemy nothing to read. Behind it, augmented overlays mapped routes, body heat, weapons, and movement through smoke. The helmet made him look less like a man wearing armor than a weapon operating a man.
+
+Circuits worked from ACO-A.
+
+Shorter and denser than most of the Men of the Mask, he had the compact build of a man who had spent his career in technical spaces but still carried the posture of a Marine. His regulation-short dark hair was beginning to gray at the temples. Thick-rimmed glasses sat on his narrow nose. Behind them, his eyes constantly measured timing, distance, and risk.
+
+ACO-A took position to support him.
+
+The vehicle drivers operated the roof-mounted machine-gun turrets while Circuits began the information-gathering operation. He tapped into Vostoshima security cameras around the FMNG headquarters, launched micro-aerial reconnaissance drones, and breached VPD communication channels.
+
+None of this was primarily for FMNG.
+
+Circuits was watching the police.
+
+He needed to know where VPD would go, how quickly they would respond, which officers would follow the official plan, and which ones would believe the headlines or the message boards more than their own eyes. The operation had to be finished before the police could understand its shape.
+
+ACO-B moved ground combat drones into the planned kill zone. The drones were low, armored six-legged machines with compact weapon systems and independent navigation. They moved through alleys and service corridors without visible operators, heavy enough to survive small-arms fire and low enough to disappear behind vehicles and street barriers.
+
+Two air-superiority drones rose from concealed positions. Their original design had little to do with ground combat, but Circuits had already rewritten their mission. They would not simply attack FMNG.
+
+They would heel them.
+
+---
+
+SDM moved ahead.
+
+A crossover street ran between the FMNG headquarters and a middle school. The SDM operation had two purposes. First, it had to force the school into lockdown so the children would be protected from fleeing FMNG fighters. Second, it had to draw VPD toward the school and keep the police from taking the shortest route to the real fight.
+
+SDM-B entered a building overlooking the connecting street. The team established four 25mm autonomous, dual-belt-fed electric automatic weapon systems. Once the weapons were positioned, the team returned to its combat vehicles and waited.
+
+SDM-A moved to the school.
+
+The team remained inside its vehicle until the Scarlet Mask gave the order.
+
+Then it fired into an empty area behind the gymnasium.
+
+The rounds struck concrete and pavement. Dust leaped into the air. The sound rolled across the school grounds, loud enough to make every teacher and student understand that the shooting was real.
+
+The school locked down.
+
+Teachers pulled students into classrooms. Interior shutters closed. Doors sealed. Children who were still walking through the courtyard dropped backpacks and ran for cover. The school's automated system began repeating instructions in several languages.
+
+Remain indoors. Stay away from windows. Await police instructions.
+
+VPD responded immediately.
+
+The 25mm systems prevented the police from using the connecting street. They filled the route with rust-colored and beige gas. The gas was dangerous, but the VPD officers who recognized the colors understood the larger threat.
+
+The mixture was used by the Scarlet Mask.
+
+Some officers believed the headlines. They heard that the Scarlet Mask was an organized terrorist force and assumed the gas marked the beginning of a fight they could not win. Those officers tightened their formations and held position.
+
+Others believed the message boards. They had read that the Scarlet Mask was theatrical, that the gas was mostly intimidation, and that the Men of the Mask avoided direct confrontations with police. Those officers let the tension drain out of their shoulders.
+
+Both groups remained at the school.
+
+They protected the children.
+
+---
+
+While VPD was fixed in place, C&C-A drove toward FMNG headquarters.
+
+The front guards were killed quickly and without mercy. Then the Scarlet Mask and the other two members of C&C-A left the vehicle in full view.
+
+They were not escaping the vehicle because they had lost it.
+
+They were leaving it because the vehicle would make the attack too difficult to believe.
+
+On foot, through smoke and dust, the three men looked exposed. Their armor was visible. Their numbers were obvious. They appeared to have separated themselves from their protection and placed themselves in front of an angry criminal organization.
+
+That was exactly what the Scarlet Mask wanted FMNG to believe.
+
+The bulk of FMNG's muscle was untrained and undisciplined. They saw three armored men in the open. They saw a chance to overwhelm them.
+
+They pursued.
+
+C&C-A began its retrograde toward the kill zone.
+
+The movement was not a conventional bounding drill in which two men moved together while the third covered them. Each member of the three-man team rushed individually. One man broke forward through the smoke while the other two covered him. He reached the next position, turned, and covered the next man. The movement repeated, one individual rush at a time.
+
+To anyone watching without military experience, it looked disorganized.
+
+To someone who understood maneuver warfare, it was controlled movement under pressure.
+
+The three men appeared to be retreating. They fired just enough to keep FMNG committed. They left behind the impression of a small unit losing ground against superior numbers.
+
+Circuits watched both the police channels and the FMNG formation.
+
+When the FMNG fighters slowed, the air drones descended.
+
+They did not simply destroy the group. They attacked around it. One strike cut off an alley. Another drove the rear fighters toward the center. A third forced the men away from the school and toward the planned kill zone.
+
+The drones heeled them.
+
+They kept the formation tight, kept it moving, and kept it from breaking into smaller groups. FMNG believed it was pursuing the Scarlet Mask. In reality, Circuits was guiding the entire group toward the ambush.
+
+SDM-A circled behind FMNG headquarters. Its job was to eliminate stragglers, collect wounded Men of the Mask, and secure intelligence.
+
+SDM-B breached another part of the headquarters. The team did not clear the building like police. Rockets opened holes in walls. Explosive and CS grenades entered rooms before the Men of the Mask did. Doors were not negotiated with.
+
+The FMNG fighters inside the building were forced outward.
+
+The men pursuing C&C-A were forced forward.
+
+The school held VPD in place.
+
+The operation narrowed everything toward one point.
+
+---
+
+C&C-A crossed C&C-B's phase line.
+
+The ambush began.
+
+Ground combat drones rose from concealment. The air drones turned fully to ground attack. Small-arms fire from the Men of the Mask struck individual targets while the 25mm systems sealed the exits.
+
+Thirty FMNG fighters had chased the Scarlet Mask into the kill zone.
+
+They believed they were pursuing three exposed men.
+
+Instead, they had entered the center of a prepared military maneuver.
+
+A small group broke toward the school. The 25mm systems switched to high-explosive belts and shredded the route ahead of them. The police at the school heard the explosions but remained focused on the children.
+
+C&C gave no quarter on the ground.
+
+FMNG expected a gang fight. It had found a force that trained for this exact moment.
+
+Two rounds to the chest. One to the head.
+
+Every FMNG fighter received the same answer, except the last one.
+
+Behind the combat helmet was Stevie Tanaka.
+
+He knew what Free Mars was. In the American Revolution, there had been the Sons of Liberty. In the Martian Revolution, there had been Free Mars.
+
+FMNG had taken that name and dragged it through trafficking, extortion, and cruelty.
+
+Stevie was not thinking about justice. He was not thinking about Vostoshima's safety. He was thinking about the insult.
+
+The last FMNG man tried to crawl away.
+
+The Scarlet Mask found a piece of broken metal in the debris. Behind the sealed helmet, his body language became that of a man howling in rage. He raised the metal and beat the last man of FMNG to death.
+
+No one stopped him.
+
+Circuits turned back to the police channels. VPD was still holding the school perimeter. The children were alive. The police had not reached the headquarters. The operation had achieved what it came to achieve.
+
+To Marcus Reaves, watching the brutal beating on a screen, the event looked like standard vigilante violence.
+
+The rage terrified him.
+
+But seeing the people who had hurt Dr. Chin's daughter receive punishment filled him with satisfaction.
+
+Marcus did not know that the Scarlet Mask had not come to save Vostoshima.
+
+He had come because FMNG disgraced Free Mars, and Stevie Tanaka wanted them erased.
