@@ -200,8 +200,10 @@ They did not simply destroy the group. They attacked around it. One strike cut o
 The drones heeled them.
 
 They kept the formation tight, kept it moving, and kept it from breaking into smaller groups. FMNG believed it was pursuing the Scarlet Mask. In reality, Circuits was guiding the entire group toward the ambush.
-he Scaarlet Mask tapped the switch again, "Phase line Phobos, cleared."
-T
+
+
+The Scarlet Mask tapped the switch again, "Phase line Phobos, cleared
+
 
 SDM-A circled behind FMNG headquarters. Its job was to eliminate stragglers, collect wounded Men of the Mask, and secure intelligence.
 
@@ -215,10 +217,6 @@ The school held VPD in place.
 
 The operation narrowed everything toward one point.
 
-The Scarlet Mask tapped the switch again.
-
-"Phase line Phobos cleared."
-
 ---
 
 C&C-A crossed the next phase line.
@@ -227,7 +225,7 @@ C&C-A crossed the next phase line.
 
 It was a formality. The ambush had already begun.
 
-Ground combat drones rose from concealment. The air drones turned fully to ground attack. Small-arms fire from the Men of the Mask struck individual targets while the 25mm systems sealed the exits.
+C&C-B's combat vehicle opened up with its machine gun. Ground combat drones rose from concealment. The air drones turned fully to ground attack. Small-arms fire from the Men of the Mask struck individual targets while the 25mm systems sealed the exits.
 
 Thirty FMNG fighters had chased the Scarlet Mask into the kill zone.
 
