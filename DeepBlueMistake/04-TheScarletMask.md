@@ -1,4 +1,6 @@
 # The Scarlet Mask
+## The Setup
+#
 
 The Scarlet Mask's team identified the location of Free Mars New Generation three days before the operation.
 
@@ -18,11 +20,11 @@ Stevie and Circuits understood what it really was.
 
 It was a punitive expedition against a false heir to Free Mars.
 
----
+## The Operation
 
 The force was divided into three elements: Scouting, Deception, and Maneuver; Command and Control; and Advanced Combat Operations. The SDM teams had no named members. The only named men in the operation were the Scarlet Mask and Circuits.
 
-Each element operated two Tesla Cybertruck-inspired combat vehicles. Each vehicle carried three Men of the Mask: a driver, a team leader, and an operator. The vehicles could function independently as three-man units or combine into six-man teams.
+Each element operated two Cyberpunk-inspired Electrically powered combat vehicles. Each vehicle carried three Men of the Mask: a driver, a team leader, and an operator. The vehicles could function independently as three-man units or combine into six-man teams.
 
 The Men of the Mask wore identical dark field uniforms over fitted body armor. The uniforms were matte black, charcoal, and dull gray, with reinforced trousers, hard boots, gloves, sealed utility belts, and standardized helmets. No one wore a personal insignia. No one wore a name patch. They were deliberately interchangeable.
 
@@ -245,13 +247,86 @@ The Scarlet Mask found a piece of broken metal in the debris. Behind the sealed 
 No one stopped him.
 
 Circuits turned back to the police channels. VPD was still holding the school perimeter. The children were alive. The police had not reached the headquarters. The operation had achieved what it came to achieve. It had also turned a school full of children into a fixed point on a tactical map: a reason for VPD to stop, a reason for the police to choose caution, and a living audience for violence they could not see.
+## The View From the Outside
+
 
 To Marcus Reaves, watching the brutal beating on a screen, the event looked like standard vigilante violence.
 
 The rage terrified him.
 
-But seeing the people who had hurt Dr. Chin's daughter receive punishment filled him with satisfaction. He hated that the satisfaction survived the children's fear. He hated that both things were true.
+But seeing the people who had hurt Dr. Chin's daughter, Patricia, receive punishment filled him with satisfaction. He hated that the satisfaction survived the children's fear. He hated that both things were true.
 
 Marcus did not know that the Scarlet Mask had not come to save Vostoshima.
 
 He had come because FMNG disgraced Free Mars, and Stevie Tanaka wanted them erased.
+# The After Action
+
+
+
+Quartermaster Washington and Monk sat in a safe room somewhere in Vostoshima. Alarms chirped on both of their encrypted comm devices, confirming that the perimeter sensors were still watching the corridors outside.
+
+Washington was broad through the chest and shoulders, a dense, steady man whose body carried the lasting effects of repeated Earth-gravity training. His close-cropped hair showed gray at the edges. His square face was calm, almost immovable, and his field jacket sat on him as neatly as if it had been built around his frame. He looked like the sort of man who could carry everything the unit needed and never mention how heavy it was.
+
+Monk perched behind the desk. He was tall and narrow, with the long limbs and light frame of a man raised entirely under dome pressure. His shoulders had never filled out after he washed out of full-gravity training. His pale, almost colorless eyes remained steady beneath close-cropped dark hair that was already thinning at the temples. Even sitting still, he looked like a scout-sniper who had already measured every exit in the room.
+
+"It's them," Monk said.
+
+He rose from behind the desk.
+
+Several moments passed. Then someone banged on the door.
+
+"The golden barrette sits on the savage monkey," came through the door.
+
+Monk looked at Washington. "Wash, I like him, but he's weird."
+
+Washington smiled. "The night hangs low in the bright moonlight."
+
+Monk flipped him off as he opened the door.
+
+The Scarlet Mask and Circuits entered the room. The Scarlet Mask wore only the cloth mask: scarlet fabric pulled tight across his face, with disciplined gold tiger stripes running diagonally over his forehead and cheeks. It was simple, practical, and unmistakable. It did not hide one man so much as announce the office he carried for everyone who had worn it before him.
+
+Monk poked at three holes in the Scarlet Mask's chest plate.
+
+"One, two, three. Three lethal shots. Ah, ha, ha, ha," he said, mimicking Sesame Street's Count.
+
+The Scarlet Mask stopped and took his most menacing pose.
+
+When Circuits closed the door, the Scarlet Mask removed the cloth mask.
+
+"Fuck you, Monk," said Stevie Tanaka.
+
+The four men erupted in laughter.
+
+"Both men on your team took hits, sir," Washington said. "One will be back online in a week. The other can still be a fully functioning father, but he's done as a Man of the Mask."
+
+He delivered the news with equal measures of sorrow and pride.
+
+"Get him a position in one of the smaller corporations," Stevie said. "Nothing too cushy. Nothing too hard. Something he has to work for, but still an opportunity he wouldn't have gotten any other way."
+
+Washington nodded.
+
+"It wasn't cheap," Circuits said. He was reading the ledger of equipment and ammunition expenditures. The numbers were boring, but they mattered to the people who ran the operation. "The vehicles need replacement armor. ACO lost two ground drones. We used more ammunition than projected."
+
+"It was worth it," Washington said. "No one will shit on Free Mars for a long time. Damn good job, sir. Damn good job."
+
+The room broke into movement. The men crossed to Stevie and gave him a round of rough pats, some more violent than others.
+
+"The bounty," Washington continued. "Short version: it was a moral victory and a profitable one. After SDM took its share, there was plenty left to replenish everything and provide spoils for all the men, not just those who were there."
+
+He detailed the weapons, cash, records, and equipment recovered from the headquarters raid. Circuits corrected two figures without looking up from the ledger. Washington corrected him on a third.
+
+"Did the beating make the vids?" Stevie asked.
+
+"Yes, sir," Washington said flatly.
+
+"Not everything has to be heads on pikes," Stevie said. "It was certainly an in-the-moment decision."
+
+Stevie looked down at his armor. Three holes marked the chest plate, each one a reminder of where the rounds should have killed him. He had been the Mask for almost a year. Most operations had been break-even affairs or tight wins. No major losses and too many minor.
+ 
+This was the cleanest victory yet. A slow smile grew across his face.
+
+"That's what I wanted to see," Washington said.
+
+Washington, Monk, and Circuits grabbed Stevie and roughed him up in a way that was entirely playful and only slightly dangerous.
+
+#
