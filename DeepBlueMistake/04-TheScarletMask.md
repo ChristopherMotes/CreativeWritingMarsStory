@@ -1,6 +1,5 @@
 # The Scarlet Mask
 ## The Setup
-#
 
 The Scarlet Mask's team identified the location of Free Mars New Generation three days before the operation.
 
@@ -24,7 +23,7 @@ It was a punitive expedition against a false heir to Free Mars.
 
 The force was divided into three elements: Scouting, Deception, and Maneuver; Command and Control; and Advanced Combat Operations. The SDM teams had no named members. The only named men in the operation were the Scarlet Mask and Circuits.
 
-Each element operated two Cyberpunk-inspired Electrically powered combat vehicles. Each vehicle carried three Men of the Mask: a driver, a team leader, and an operator. The vehicles could function independently as three-man units or combine into six-man teams.
+Each element operated two cyberpunk-inspired, electrically powered combat vehicles. Each vehicle carried three Men of the Mask: a driver, a team leader, and an operator. The vehicles could function independently as three-man units or combine into six-man teams.
 
 The Men of the Mask wore identical dark field uniforms over fitted body armor. The uniforms were matte black, charcoal, and dull gray, with reinforced trousers, hard boots, gloves, sealed utility belts, and standardized helmets. No one wore a personal insignia. No one wore a name patch. They were deliberately interchangeable.
 
@@ -162,11 +161,17 @@ It was the closest thing to a promise he could make.
 
 While VPD was fixed in place, C&C-A drove toward FMNG headquarters.
 
-The front guards were killed quickly and without mercy. Then the Scarlet Mask and the other two members of C&C-A left the vehicle in full view.
+The front guards were killed quickly and without mercy. As more FMNG fighters rushed toward the entrance, the Scarlet Mask tapped the tape switch on his rifle, activating the comm system.
+
+"Break contact. Individual rushes," he said.
+
+Circuits smirked, still working at his console.
+
+The Scarlet Mask and the other two members of C&C-A left the vehicle in full view.
 
 They were not escaping the vehicle because they had lost it.
 
-They were leaving it because the vehicle would make the attack too difficult to believe.
+They were leaving it because they were bait.
 
 On foot, through smoke and dust, the three men looked exposed. Their armor was visible. Their numbers were obvious. They appeared to have separated themselves from their protection and placed themselves in front of an angry criminal organization.
 
@@ -195,6 +200,8 @@ They did not simply destroy the group. They attacked around it. One strike cut o
 The drones heeled them.
 
 They kept the formation tight, kept it moving, and kept it from breaking into smaller groups. FMNG believed it was pursuing the Scarlet Mask. In reality, Circuits was guiding the entire group toward the ambush.
+he Scaarlet Mask tapped the switch again, "Phase line Phobos, cleared."
+T
 
 SDM-A circled behind FMNG headquarters. Its job was to eliminate stragglers, collect wounded Men of the Mask, and secure intelligence.
 
@@ -208,11 +215,17 @@ The school held VPD in place.
 
 The operation narrowed everything toward one point.
 
+The Scarlet Mask tapped the switch again.
+
+"Phase line Phobos cleared."
+
 ---
 
-C&C-A crossed C&C-B's phase line.
+C&C-A crossed the next phase line.
 
-The ambush began.
+"Phase line Deimos cleared," the Scarlet Mask said.
+
+It was a formality. The ambush had already begun.
 
 Ground combat drones rose from concealment. The air drones turned fully to ground attack. Small-arms fire from the Men of the Mask struck individual targets while the 25mm systems sealed the exits.
 
@@ -247,6 +260,7 @@ The Scarlet Mask found a piece of broken metal in the debris. Behind the sealed 
 No one stopped him.
 
 Circuits turned back to the police channels. VPD was still holding the school perimeter. The children were alive. The police had not reached the headquarters. The operation had achieved what it came to achieve. It had also turned a school full of children into a fixed point on a tactical map: a reason for VPD to stop, a reason for the police to choose caution, and a living audience for violence they could not see.
+
 ## The View From the Outside
 
 
@@ -259,7 +273,8 @@ But seeing the people who had hurt Dr. Chin's daughter, Patricia, receive punish
 Marcus did not know that the Scarlet Mask had not come to save Vostoshima.
 
 He had come because FMNG disgraced Free Mars, and Stevie Tanaka wanted them erased.
-# The After Action
+
+## The After Action
 
 
 
@@ -321,7 +336,7 @@ He detailed the weapons, cash, records, and equipment recovered from the headqua
 
 "Not everything has to be heads on pikes," Stevie said. "It was certainly an in-the-moment decision."
 
-Stevie looked down at his armor. Three holes marked the chest plate, each one a reminder of where the rounds should have killed him. He had been the Mask for almost a year. Most operations had been break-even affairs or tight wins. No major losses and too many minor.
+Stevie looked down at his armor. Three holes marked the chest plate, each one a reminder of where the rounds should have killed him. He had been the Mask for almost a year. Most operations had been break-even affairs or tight wins. No major losses, but too many minor ones.
  
 This was the cleanest victory yet. A slow smile grew across his face.
 
