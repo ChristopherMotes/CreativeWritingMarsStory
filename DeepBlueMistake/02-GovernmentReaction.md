@@ -66,7 +66,17 @@ Torres turns, his expression open and solemn.
 
 The door closes behind him before the operator can ask when.
 
-Councilwoman Liu moves quickly: "The root cause is inadequate government oversight. We need to strengthen our capacity to monitor and control criminal activity."
+Councilwoman Liu moves quickly.
+
+She wears the kind of clothes that disappear in a government building: a medium-gray jacket, a pale blue blouse, dark trousers, and sensible shoes with low heels. Everything is clean, pressed, and purchased in the same forgettable style. Her council badge hangs at the exact height prescribed by the administrative handbook. Nothing about her outfit is cheap, careless, or expressive. It is simply appropriate.
+
+She carries a thin tablet in one hand. Its screen is divided into tidy colored blocks: ROOT CAUSE, STAKEHOLDERS, METRICS, RESPONSE. She has highlighted the same phrases in each section. When a staffer tries to add a handwritten note to the briefing packet, Liu smooths the page flat and moves it beneath the tablet.
+
+At the microphone, she uses the language of people who have attended every required training session and remembered all the important terms.
+
+"The root cause is inadequate government oversight," Liu says. "We need to strengthen our capacity to monitor and control criminal activity."
+
+She pauses, waiting for the phrase to settle as if it has already explained the problem.
 
 Dr. Patel arrives at it differently.
 
@@ -92,11 +102,29 @@ The statement is careful. The consequences are not.
 
 Families who have lost children hear hope in it. Officers hear an accusation. Dealers hear an opening. Patel hears none of those interpretations clearly enough to change course. He hears a principle that must remain intact even when the first attempt to apply it fails.
 
-Stephanie Wong approaches it carefully. She's spent years watching how Vostoshima functions. Something about it seems different from comparable domes. More stable. More orderly. Crime exists, but it doesn't spiral. Territorial disputes happen but don't metastasize.
+Stephanie Wong approaches it carefully.
+
+She wears a dark green jacket over a plain cream shirt, with straight-legged trousers and low black shoes. The jacket has been let out slightly at the shoulders and repaired at one cuff. Her council badge hangs from a metal clip rather than the approved retractable reel. It is a small violation, but the clip has held longer than the reel did.
+
+Her aide carries a canvas case with two dead tablet chargers, a paper calendar, and a stack of reports printed on both sides. The aide looks young enough to be taking classes after work. She keeps one hand around a cup of vending-machine coffee and uses the other to mark passages with a yellow pencil that has been sharpened nearly to the metal.
+
+Wong has spent years watching how Vostoshima functions. Something about it seems different from comparable domes. More stable. More orderly. Crime exists, but it doesn't spiral. Territorial disputes happen but don't metastasize.
+
+She turns pages covered in small notes and cross-references, then looks past the statistics to the community programs that produced them.
 
 "Community police programs are effective," Wong says. "Long-term treatment infrastructure prevents addiction. We should build on what's proving successful. Something about how this dome operates is working better than the historical comparisons."
 
-Councilor Helena Vasquez has noticed the same thing. She draws the opposite conclusion: "This dome operates on an implicit bargain. We tolerate criminal activity in exchange for orderliness. That's corruption, and we need to break it. We need legitimate government control over all aspects of our society, not this... arrangement we've settled into."
+Councilor Helena Vasquez has noticed the same thing.
+
+She wears almost the same clothes: a dark green jacket, a plain cream shirt, straight trousers, and low black shoes. Her jacket is cut a little more sharply, but the fabric has the same inexpensive weave. One pocket has been stitched closed where a pen tore through the lining. Her badge hangs from the same kind of metal clip.
+
+Her aide carries a canvas case with two dead tablet chargers, a paper calendar, and a stack of reports printed on both sides. The aide is older than Wong's, but just as tired. She balances a vending-machine coffee on top of the case and holds a marked copy of the municipal charter under one arm.
+
+Vasquez has placed red tabs along the pages that describe emergency powers, private security exemptions, and the limits of police authority. She has not marked the sections on treatment outcomes. Her aide has placed those pages in a separate folder anyway.
+
+Vasquez draws the opposite conclusion.
+
+"This dome operates on an implicit bargain," she says. "We tolerate criminal activity in exchange for orderliness. That's corruption, and we need to break it. We need legitimate government control over all aspects of our society, not this... arrangement we've settled into."
 
 The debate unfolds between them. Torres and Liu want to enforce harder. Patel wants to treat and prevent. Wong wants to understand what's working and build on it. Vasquez wants to tear it all down and rebuild.
 
