@@ -38,15 +38,59 @@ He thinks about what happens next.
 
 ## Part Two: The Politicians
 
-Councilman Torres holds a press conference the day after Washington's death is confirmed. The cameras are there immediately. He stands in front of her photo and speaks with genuine urgency: "We have a drug crisis in our dome. We need stronger enforcement, better coordination with police, expanded criminal penalties."
+Councilman Torres holds a press conference the day after Washington's death is confirmed. The cameras are there immediately.
+
+He arrives in a tailored climate suit cut from the same dark, conductive fabric favored by bankers. The material regulates temperature so precisely that the wearer never sweats beneath the studio lights. Its surface is nearly black, but it catches blue along the seams when he moves. The jacket fits his shoulders without a wrinkle. The collar lies flat. His shoes are soft-soled and polished enough to reflect the microphones waiting for him.
+
+Torres is not alone. Three young women move with him from the transport platform to the cameras. One carries a tablet and never looks down at it. One wears an assistant's badge but no visible department insignia. The third does not carry anything at all. She stays half a step behind Torres, smiling at the right people and touching his elbow whenever he pauses too long.
+
+They are all beautiful in the composed, expensive way of people whose clothes, hair, and skin have been managed by specialists. They look less like a campaign staff than a private hospitality service that has wandered into government. Marcus notices that each woman knows which camera is live, which reporter has been cleared for a question, and which door will open before anyone reaches it.
+
+No one introduces them.
+
+One of the women hands Torres a cup of water. Another removes a loose thread from his sleeve. The third takes a reporter's question, redirects it to the death of Officer Washington, and steps away before the reporter can ask who authorized her to speak.
+
+Torres stands in front of Washington's photo and speaks with genuine urgency: "We have a drug crisis in our dome. We need stronger enforcement, better coordination with police, expanded criminal penalties."
 
 Marcus watches this at a hab-unit community board. Torres means every word.
 
+That is what makes him difficult to dismiss. He is not pretending that Washington is dead. He is not pretending that Patricia Chen is sick. He believes the dome is under attack, and he believes that stronger enforcement is the answer. He also seems to understand, before anyone else in the room, exactly which parts of the tragedy will look best behind him on a screen.
+
+During the questions, Torres refers to Washington by her first name. He calls her a daughter of Vostoshima. He promises that her sacrifice will produce action. Behind him, the woman with the tablet quietly changes the order of the images on the press feed. Washington's photograph remains visible. The images of the hospitalized teenagers disappear.
+
+When the conference ends, Torres does not leave through the public exit. The woman with the assistant's badge leads him through a service corridor used by catering crews and maintenance workers. His entourage follows without hurrying. A camera operator asks whether the councilman will speak to the families.
+
+Torres turns, his expression open and solemn.
+
+"Of course," he says.
+
+The door closes behind him before the operator can ask when.
+
 Councilwoman Liu moves quickly: "The root cause is inadequate government oversight. We need to strengthen our capacity to monitor and control criminal activity."
 
-Dr. Patel arrives at it differently: "Drug addiction isn't a criminal problem, it's a health problem. We should be treating users, not punishing them."
+Dr. Patel arrives at it differently.
+
+He is not a medical doctor. His doctorate is in social policy and public administration, and he still dresses like a man who expects to spend the morning teaching before spending the afternoon in council chambers. His clothing has become a uniform: a white shirt with the sleeves buttoned at the wrist, a narrow dark waistcoat, pressed trousers, and a long academic coat in charcoal wool. The coat is old but carefully maintained. Its inner lining carries the embroidered seal of the university where he taught for twenty years, and Patel wears it with the quiet pride of a soldier wearing campaign ribbons.
+
+He refuses the climate suits favored by financiers and senior administrators. He refuses the polished informality of campaign consultants. His clothes announce that he belongs to an institution older than the current crisis, and that ideas are his tools. Even his battered leather case has a place of honor on his desk. It contains printed studies, handwritten notes, and a red pencil he uses to mark every proposal that crosses his hands.
+
+Patel has spent his career studying the way systems turn vulnerable people into statistics. When he speaks about addiction, he is thinking about families, withdrawal, relapse, and the teenager who takes a capsule because everyone around him insists it is harmless. He is not trying to excuse the dealers. He is trying to keep the state from adding another wound to the ones already there.
+
+"Drug addiction isn't a criminal problem, it's a health problem," Patel says. "We should be treating users, not punishing them."
 
 His heart is genuine.
+
+He does not ask what happens to the neighborhood while treatment beds are being built. He does not ask how police should respond when a dealer uses a clinic as cover, or what a family does when a violent user refuses treatment. When an aide mentions those questions, Patel taps the red pencil against his notes and says they are implementation problems.
+
+He says it with no contempt. That is part of the difficulty. To Patel, implementation is simply the stage where good policy must be made real. He believes that if the evidence is clear enough, humane enough, and presented with enough patience, the machinery of government will eventually behave as the theory requires.
+
+Marcus watches Patel straighten a stack of papers before answering a reporter. The gesture is almost ceremonial. Patel is not performing for the cameras. He is preparing to teach a room that does not want a lesson.
+
+"The answer to a medical crisis cannot be to turn every frightened family into a suspect," Patel says. "We have to treat the sick, pursue the people who profit from sickness, and stop confusing punishment with public safety."
+
+The statement is careful. The consequences are not.
+
+Families who have lost children hear hope in it. Officers hear an accusation. Dealers hear an opening. Patel hears none of those interpretations clearly enough to change course. He hears a principle that must remain intact even when the first attempt to apply it fails.
 
 Stephanie Wong approaches it carefully. She's spent years watching how Vostoshima functions. Something about it seems different from comparable domes. More stable. More orderly. Crime exists, but it doesn't spiral. Territorial disputes happen but don't metastasize.
 
