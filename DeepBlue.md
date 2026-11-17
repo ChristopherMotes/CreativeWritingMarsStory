@@ -96,7 +96,7 @@ Sophie stirs on the medical bed—soft foam with thermal regulation, designed sp
 
 Reeves holds her hand, careful not to jostle the IV line. Her palm is smaller than the width of three of his fingers. She curls reflexively when she feels his touch, even in sleep.
 
-"She's stable," the medical tech says, a woman named Dr. Chen who's been checking Sophie's readings for the past six hours. "You should get some rest. Seriously. She'll be here when you wake up."
+"She's stable," the medical tech says, a woman named Dr. Chin who's been checking Sophie's readings for the past six hours. "You should get some rest. Seriously. She'll be here when you wake up."
 
 Reeves nods because it's easier than explaining that he can't leave. That every time he closes his eyes, he remembers being seven years old and watching his own sister die from something the colony couldn't treat. That Mars killed her, and he's been running from that day ever since, building domes and welding seals to make sure nobody else's sister dies because the colony isn't strong enough.
 
@@ -132,7 +132,7 @@ Not out of compassion. Out of the same logic that keeps the system balanced.
 
 Sophie's fever breaks at hour seventy-two.
 
-Reeves feels the moment it happens—her skin cooling beneath his palm. Her breathing slowing. Her body releasing the tension of fighting infection. Dr. Chen confirms it with the thermometer. Sophie opens her eyes and looks at her father with the clarity of a child who's fought something difficult and won.
+Reeves feels the moment it happens—her skin cooling beneath his palm. Her breathing slowing. Her body releasing the tension of fighting infection. Dr. Chin confirms it with the thermometer. Sophie opens her eyes and looks at her father with the clarity of a child who's fought something difficult and won.
 
 "Juice?" she says. It's the first thing she's asked for in three days.
 

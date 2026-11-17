@@ -16,7 +16,7 @@ But during the raids responding to the overdose crisis, Officer Patterson gets c
 
 Marcus hears about this through the community boards. A neighbor posts about knowing someone who was roughed up during a raid. The story doesn't make the news the way Petrov's heroism does.
 
-Two weeks after Patricia Chen is hospitalized, a raid on a Free Mars New Generation distribution point goes wrong. The details are confused at first. Marcus hears fragments at the medical facility, in hab-unit message boards, in the break room conversations of other workers.
+Two weeks after Patricia Chin is hospitalized, a raid on a Free Mars New Generation distribution point goes wrong. The details are confused at first. Marcus hears fragments at the medical facility, in hab-unit message boards, in the break room conversations of other workers.
 
 Petrov was providing overwatch for a unit moving on a suspected stash house. A civilian was in the building—not involved, just in the wrong place. When the raid went kinetic, the civilian panicked and ran directly into the line of fire. Petrov saw it happening. She moved to pull them to safety.
 
@@ -26,7 +26,7 @@ The community boards explode. There are flowers at the police precinct. There ar
 
 And there's a separate thread in the community boards about Patterson's excessive force. About how many cops are genuinely trying to help and how many are using the crisis to consolidate power and squeeze harder.
 
-Dr. Chen mentions it quietly to Marcus during Sophie's next check-up. "I treated her for a minor injury three months ago," Chen says. "She was kind. She was trying so hard to help."
+Dr. Chin mentions it quietly to Marcus during Sophie's next check-up. "I treated her for a minor injury three months ago," Chin says. "She was kind. She was trying so hard to help."
 
 Marcus thinks about Petrov talking to teenagers on the welding level. He thinks about a woman with three kids who chose to get her son treatment instead of arrest. He thinks about her pulling a stranger to safety and receiving a bullet for it.
 
@@ -54,7 +54,7 @@ Torres stands in front of Petrov's photo and speaks with genuine urgency: "We ha
 
 Marcus watches this at a hab-unit community board. Torres means every word.
 
-That is what makes him difficult to dismiss. He is not pretending that Washington is dead. He is not pretending that Patricia Chen is sick. He believes the dome is under attack, and he believes that stronger enforcement is the answer. He also seems to understand, before anyone else in the room, exactly which parts of the tragedy will look best behind him on a screen.
+That is what makes him difficult to dismiss. He is not pretending that Washington is dead. He is not pretending that Patricia Chin is sick. He believes the dome is under attack, and he believes that stronger enforcement is the answer. He also seems to understand, before anyone else in the room, exactly which parts of the tragedy will look best behind him on a screen.
 
 During the questions, Torres refers to Petrov by her first name. He calls her a daughter of Vostoshima. He promises that her sacrifice will produce action. Behind him, the woman with the tablet quietly changes the order of the images on the press feed. Petrov's photograph remains visible. The images of the hospitalized teenagers disappear.
 

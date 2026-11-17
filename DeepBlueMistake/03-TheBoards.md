@@ -26,7 +26,7 @@ But Patel keeps pushing. He posts again. And again. Each time, the footage gets 
 
 Marcus watches this happening in real time. He sees Torres's team using Petrov to argue for enforcement. He sees Patel's team using Patterson's violence to argue for something different. Both presenting true facts. Both getting amplified by people who want those facts to mean something specific.
 
-Marcus sees Dr. Chen's face on the boards. Someone asks if her daughter's case proves they need harder enforcement. Someone else asks if Patterson's violence proves enforcement is the problem. She's not arguing either position. But her family's tragedy is now evidence for competing causes.
+Marcus sees Dr. Chin's face on the boards. Someone asks if her daughter's case proves they need harder enforcement. Someone else asks if Patterson's violence proves enforcement is the problem. She's not arguing either position. But her family's tragedy is now evidence for competing causes.
 
 He sees Officer Petrov's photo shared countless times. Her own words used for narratives she never would have supported.
 

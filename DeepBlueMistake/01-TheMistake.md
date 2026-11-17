@@ -2,9 +2,9 @@ d
 
 # The Mistake
 
-Three weeks after Sophie comes home from the medical facility, fully recovered, Marcus Reeves is back in Dr. Chen's office for a routine check-up. Sophie's immune system is adapting to Mars. She's healthy. Dr. Chen smiles at her, makes notes, tells Reeves that he can worry a little less now.
+Three weeks after Sophie comes home from the medical facility, fully recovered, Marcus Reeves is back in Dr. Chin's office for a routine check-up. Sophie's immune system is adapting to Mars. She's healthy. Dr. Chin smiles at her, makes notes, tells Reeves that he can worry a little less now.
 
-Dr. Chen is good like that. Competent. Warm. The kind of doctor who remembers that parents can barely breathe when their children are sick.
+Dr. Chin is good like that. Competent. Warm. The kind of doctor who remembers that parents can barely breathe when their children are sick.
 
 Marcus likes her.
 
@@ -18,9 +18,9 @@ Sophie holds it out. "It goes up and then it crashes."
 
 "It is if you do it again."
 
-Dr. Chen laughs while she checks Sophie's breathing. The laugh is small, but genuine. For a moment, the room is only a room: a father, a doctor, a child who has survived something neither adult wants to name too often.
+Dr. Chin laughs while she checks Sophie's breathing. The laugh is small, but genuine. For a moment, the room is only a room: a father, a doctor, a child who has survived something neither adult wants to name too often.
 
-Dr. Chen tells Marcus that Sophie's fever is gone, that her immune markers look better, and that the next appointment can be routine instead of urgent.
+Dr. Chin tells Marcus that Sophie's fever is gone, that her immune markers look better, and that the next appointment can be routine instead of urgent.
 
 "You can worry a little less now," she says.
 
@@ -130,17 +130,17 @@ Marcus wants to believe her.
 
 ---
 
-Marcus Reeves is back in the medical facility five weeks later. Not for Sophie this time. For a routine follow-up appointment. Dr. Chen is in the hallway, and something in her face stops him cold.
+Marcus Reeves is back in the medical facility five weeks later. Not for Sophie this time. For a routine follow-up appointment. Dr. Chin is in the hallway, and something in her face stops him cold.
 
 It's the same look he saw in the mirror every hour of Sophie's fever. The same desperate exhaustion. The same barely-held-together competence masking absolute terror.
 
-"Dr. Chen—" he starts.
+"Dr. Chin—" he starts.
 
 She turns to him, and for a moment, the mask slips entirely. "My daughter," she says. "Patricia. She was at a party in the upper schools. There's a bad batch of something. She—"
 
 She doesn't finish. She doesn't need to. Marcus recognizes that look too well. That's the look of a parent whose child is in a bed somewhere in this facility, and the outcome is still unknown.
 
-"She's fighting it," Dr. Chen says. "Her body is fighting it. But the compound—it's designed for recreational use. High potency. Her seizures are—"
+"She's fighting it," Dr. Chin says. "Her body is fighting it. But the compound—it's designed for recreational use. High potency. Her seizures are—"
 
 She stops. Turns away. Composes herself with visible effort.
 
@@ -148,7 +148,7 @@ Marcus sees himself three weeks ago, holding Sophie's hand, reciting statistics 
 
 "She's going to make it," Marcus says, and he doesn't know if it's true, but he knows that's what you say.
 
-Dr. Chen nods. She has to get back to her rounds. She has to be the competent doctor now, not the terrified mother. Marcus watches her walk away, and he thinks about Sophie, healthy and home and safe. He thinks about Patricia Chen, somewhere in this building, fighting a drug that should never have reached the schools.
+Dr. Chin nods. She has to get back to her rounds. She has to be the competent doctor now, not the terrified mother. Marcus watches her walk away, and he thinks about Sophie, healthy and home and safe. He thinks about Patricia Chin, somewhere in this building, fighting a drug that should never have reached the schools.
 
 He thinks about the note in the break room. He thinks about the party invitations that travel faster than police warnings. He thinks about the machine on his kitchen table and the faith Sophie places in his ability to repair what breaks.
 
