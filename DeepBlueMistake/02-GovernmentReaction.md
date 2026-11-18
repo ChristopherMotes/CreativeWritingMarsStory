@@ -64,7 +64,7 @@ Torres stands in front of Petrov's photo and speaks with genuine urgency: "We ha
 
 Marcus watches this at a hab-unit community board. Torres means every word.
 
-That is what makes him difficult to dismiss. He is not pretending that Washington is dead. He is not pretending that Patricia Chin is sick. He believes the dome is under attack, and he believes that stronger enforcement is the answer. He also seems to understand, before anyone else in the room, exactly which parts of the tragedy will look best behind him on a screen.
+That is what makes him difficult to dismiss. He is not pretending that Petrov is dead. He is not pretending that Patricia Chin is sick. He believes the dome is under attack, and he believes that stronger enforcement is the answer. He also seems to understand, before anyone else in the room, exactly which parts of the tragedy will look best behind him on a screen.
 
 During the questions, Torres refers to Petrov by her first name. He calls her a daughter of Vostoshima. He promises that her sacrifice will produce action. Behind him, the woman with the tablet quietly changes the order of the images on the press feed. Petrov's photograph remains visible. The images of the hospitalized teenagers disappear.
 
