@@ -342,4 +342,38 @@ This was the cleanest victory yet. A slow smile grew across his face.
 
 Washington, Monk, and Circuits grabbed Stevie and roughed him up in a way that was entirely playful and only slightly dangerous.
 
-#
+## The Brief
+
+Earlier that day in a storage bay two domes off the target. No flags. No map table theater. Four men and a crate that doubled as a desk.
+
+Washington laid out the belts, drone packs, and vehicle armor patches like a packing list, not a briefing slide. Monk stood where he could see both doors. Circuits had the only screen. Stevie listened with the cloth mask still in his fist.
+
+“Intent,” Circuits said. “FMNG gone before VPD owns the ground. We are not here to hold a block. We are not here to look like heroes. We are off the clock in Vostoshima the moment the last shooter is down or the net says police have a clear route.”
+
+Washington tapped the crate. “Two vehicles per element. Three men each. If a truck dies, the other truck is the plan. No one waits on a disabled hull.”
+
+Monk pointed at the school without looking sentimental about it. “Connecting street is the only piece of terrain that fixes a police response on a clock we can measure. We looked at a warehouse fire on the far side. It draws cameras. It does not hold bodies in place. The school does. Teachers lock doors. Dispatch sends everyone. That is the shaping operation. Live rounds go into empty pavement behind the gym. If a child is in that yard, SDM-A aborts the first burst and we lose the easy fix. Then we do it the expensive way.”
+
+“Decision points,” Circuits said. He did not dress them up.
+
+“One. VPD takes the school. SDM-B keeps the connecting street shut. Gas mix they already know is ours. C&C-A starts the bait.”
+
+“Two. VPD does not take the school, or they split toward the headquarters. SDM-B shifts fires. C&C-A delays in the open until the drones can heel FMNG off the school axis. We do not chase a fight into the classrooms.”
+
+“Three. FMNG will not come out. SDM blows the walls and we collapse the building inward. Longer. Louder. Still leaves before a cordon closes.”
+
+Stevie nodded once. “C&C-A is the target they want to kill. We look exposed. We are not.”
+
+“You are the only one who looks like a name,” Washington said. “Everyone else is a uniform. Do not turn this into a speech.”
+
+Circuits marked the screen. “Phase line Phobos is the first covered position off the headquarters apron. Phase line Deimos is the near edge of the kill zone. You call them when the last man of C&C-A is across, not when you feel like it. ACO holds VPD in the model. If the model breaks, I pull the drones off herding and put them on the police route. That is my call.”
+
+Monk added the last piece as if it were ammunition. “Exfil is the operation. Safe room is already live. Wounded ride with SDM-A on the back side of the headquarters. Bounty and drives go in the same trucks. If we win the fight and lose the exit, we did not win.”
+
+Stevie pulled the cloth mask on, then took it off again. The combat helmet would come later.
+
+“Say it back,” Circuits said.
+
+Stevie did, without decoration. Destroy them. Fix the police on the school. Bait the muscle into the kill zone. Call Phobos. Call Deimos. Leave.
+
+Washington closed the crate. “Then we go to work.”
