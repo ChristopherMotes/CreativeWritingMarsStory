@@ -12,9 +12,19 @@ Marcus Reeves sees her on the welding level one morning, talking to a group of t
 
 Petrov is also spearheading the expanded DARE programs and youth athletic leagues. Not the box-checking kind of policing. Real engagement. She knows most of the teenagers in her precinct by name.
 
+A patrolman tells Marcus that Petrov once cornered him after shift and asked him to help get a teenager back to the youth league.
+
+"I told her it wasn't my assignment," he says. "She said she knew. Then she asked if I thought that mattered to the kid."
+
+He went. Petrov went with him. The next time she asked, he didn't make her ask twice.
+
+Most of the work is less visible. Marcus sees one officer spend half a shift taking statements about a string of break-ins, explaining which report goes to police and which to housing maintenance. His radio keeps calling him to overdose scenes. He finishes the form, leaves a copy with the residents, and answers the next call. There is no speech, no camera, no easy way to tell whether the work is changing anything. It is still his shift.
+
 But during the raids responding to the overdose crisis, Officer Patterson gets carried away. He breaks bones on suspects that turned out to be innocent. The review board calls it excessive but justified given circumstances. Patterson remains on duty.
 
 Marcus hears about this through the community boards. A neighbor posts about knowing someone who was roughed up during a raid. The story doesn't make the news the way Petrov's heroism does.
+
+The boards fill with calls for internal accountability. One clip shows a VPD officer coaching his kid's ball game. Someone asks whether he reported Patterson. He types, "I reported him before. The review board has it." His kid calls him back to the field. He pockets the phone without sending the reply and goes.
 
 Two weeks after Patricia Chin is hospitalized, a raid on a Free Mars New Generation distribution point goes wrong. The details are confused at first. Marcus hears fragments at the medical facility, in hab-unit message boards, in the break room conversations of other workers.
 
