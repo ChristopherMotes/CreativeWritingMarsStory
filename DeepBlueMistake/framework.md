@@ -14,10 +14,10 @@ Analyze the risks of Deep Blue's ideology, rather AI or Human: accepting crime a
 1. The Mistake
 2. Vostoshima's government and Police Reaction
 3. The Boards
-4. The Whisper's involvement
+
 5. The Scarlet Mask's involvment
-6. Deep Blue's reactions and corrections
-7. Return to order
+5. Deep Blue's reactions and corrections
+6. Return to order
 
 ## Mistake
 
@@ -71,4 +71,13 @@ t to Marcus Reaves watching the brutal beating on TV, or whatever, he's conflict
 
 
 #
-#
+## Deep Blues Corrections and Reactions
+
+150 to 500 words
+
+This section focuses on deep blue's corrections and reaction. It should focus on many things he does. 
+
+1. How he calms the panic on the boards with narrative control. 
+2. How he uses the gangs and competition among them to prevent spill over into schools and other "safe areas" again. 
+3. How he manages the Scarlet Mask's incursion to his territory.
+4. Internal updates to his system that hint/confirm deep blue is an AI.
