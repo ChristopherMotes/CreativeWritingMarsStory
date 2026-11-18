@@ -43,3 +43,17 @@ The back ground story about Vostoshima is that it originally was a Russian Feder
 ```
 
 I later realized that 'Vostochny Cosmodrome' translates directely to Eastern Spaceport. So, in my head, before anything went into text, I updated the story to be that, all the stuff brought in from the failed Russian Martian Colonly was marked with Vostochny Cosmodrome. So, the English speakers started calling Vostoshima dome. Thus, all the domes were tagged with Shima.
+
+## Other Characters
+
+### Dr. Chin
+
+Dr. Aurora Chin was orinially a transitional character. More background than human, but she grew into a character in the DeepBlueMistake short story. I needed to complete her as nomral a complete character for AI to developher.
+At this point, similar to Stevie Tanaka, her last name doesn't fit her appearance. She probably looks close to Finnish than Chinese.
+#### Familial background
+
+Someone in Dr. Chins family line migrated to Finaland from China generations before Planet fall on Mars. The Chin's are New Brownsville low royalty. Arrived at Planet fall on the Earliest form of New Brownsville. They still have deep, deep roots in the Muskashima medical community. They aren't fantastically rich, but are incredibly well off.
+
+#### Who she is
+
+Aurora Chin is deep red Martian. She'd have the longer lithe body of someone who's only known Martian gravity. She's wealthy, so her skin tone, would show access to tanning lights, etc. that would give her a more healthy look than other dome dwellers. Grew up in the estates of Muskahima, but not rich like Leo Musk. She certainly had middle class friends, who behaved similarly to Stevie Tanaka and Jimmy Nuts. She was a party girl until an early pregnancy, Patricia. Her Parents dropped the heavy end on her, threatening to send her to the Muskashima apartements (the lower class homes) with any help and keep her daughter. With good family support, self direction, and wanting her family to take her daughter, she pushed herself in a good line Now she's a top Neurosurgeon. Called out across all of Mars. She's gets quite a high price, too. She's probably the only unsullied hero in the story. She donates time to the Vostashima med-clinics as an ER surgeon, where she lives now. That's how she met Marcus and Sofia Reaves. That's how she treated Keisha Patrov.

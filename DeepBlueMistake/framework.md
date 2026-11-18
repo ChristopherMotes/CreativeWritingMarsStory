@@ -81,3 +81,30 @@ This section focuses on deep blue's corrections and reaction. It should focus on
 2. How he uses the gangs and competition among them to prevent spill over into schools and other "safe areas" again. 
 3. How he manages the Scarlet Mask's incursion to his territory.
 4. Internal updates to his system that hint/confirm deep blue is an AI.
+
+
+
+
+
+
+
+
+## Return To Order
+
+
+
+
+
+Less than 1000 words
+
+The return to order section focuses on everything recovering in vosteshima. The views of Marcus Reeves and Dr. Chin should somewhat expose class differences. Dr. Chin seeing the social impact along with her personal suffering. Reeves seeing how it screwed up school and work schedules, impacted household finance.
+
+### Dr. Chin
+
+Dr. Chin and her daughter, Patricia, their closing story should parallel how vostishima has healed from deep blues mistake. This is the first time Dr. Chin is presented as a full character. She will get a full physical description and a mention of her first name (see README file). The process of  Vostishima returning to normal should involve Dr. Chin's troubled youth and though she's over joyed Patricia is alive, she knows the girl needs to be righted.
+
+####
+
+#### Marcus Reeves
+
+Marcus Reeves should detail the scars left on the city by the events. It should be clear that he's memorizing it as he's doing something with Sofia. It should detail that he's in his jumpsuit. The lost youngsters, Scarlet Masks violent removal of FMNG, His vision should reiteracte his views of watching the Scarlet Mask and the men of mask irradicate FMNG and how gut punched he was that he enjoyed.  Mostly he should see the way the whole of Vostishima is just a hint different. Vostishima's recovery should have the stronger politicians from 02-theGovernmentReaction mirroing the scaring of the city 
