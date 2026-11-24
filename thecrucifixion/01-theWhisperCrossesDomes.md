@@ -54,5 +54,22 @@ Circuits and Monk worked to draw the Whisper away from the crowd and toward an i
 
 Stevie Tanaka sprints down the street. *AI: A quicker refressher of what Stevie Tanaka looks like found the base TheScarletMask.md. Both his maritian physique pumped up from surviving full Earthgravity training and diluted to nothing japanese ancestry* He's wearing an overcoat and a medium sized sling bag. The Martian Issue Service Rifle doesn't stand out on the streets of Secondshima. Every male aged 16-65 has one. It's rare most choose to carry a pistol of some sort. The overcoat is strange enough to draw a second look, but not a third. He ran tracking the Whisper on his MCD. "Fuck!" he thought. "He moving us as much as we are him. The fucker is negotiating terrain."
 
-Monk breaks in the secured communication channel, "We gotta hold the fucker there. I lose visual on the next street."
+Monk broke in on the secured communication channel, "We gotta hold the fucker there. I lose visual on the next street."
 
+As always, things got worse. 
+
+In Muskashima, the Whisper is often a heroic character. He addressing gaps in their legal system. He cleans up bad cops, letting good cops do good. For many, perhaps most, the Whisper is the glue the holds Muskashima together. For a few he's a dangerous criminal like any other. For the remainder his necessary but tragic part of a healthy system.
+
+Secondshimamen view him differently. The Whisper is a symbol of government domestic espionage. A leader of a new nazi SS or Red Coats. The hate him as badly as Stevie Tanaka. Like the Men of the Mask, the Secondshimamen know arms. Their pistols remain holstered so they used debris and words to communicate their displeasure of his presence.
+
+"Fuck you, you God Damned, tyrant!" shouted one militiaman whilst throwing broken pipe.
+
+"Let Leo Musk know we don't want his Orwellian nightmare here!" shouted another. He included an obscene gesture for emphasis.
+
+The problem, the people of Secondshima, that the Scarlet Mask and the Whisper wanted separation from had followed them.
+
+Though they did more harm than good, the militiamen did good. They slowed the Whisper enough to allow the Men of the Mask to arrive. The four trucks of SDM and ACO arrive first. To protect the civillians and himself, the Whisper pull from one of his many hiding places a noxious gas granade. Then scanning through his list of electronic warfare options in his AR helmet he chose, 'electro-pysonic attack.' An electronic attack hit the the Men of ACO and SDM hard. Like needles being pushed the back of their eyes and eardrums the men suffer unbelievable pain.
+
+Circuits wasn't the strongest recruit or the fastest. He made it through Martian Colony Marine Corps bootcamp on desire and Esprit de Corps. He refused to fail, they refused to let him. He wasn't chosen for EarthGrav training. He wasn't chosen for Infantry. He missed promotion for poor physical training scores. But, Circuits is as tough as they come. Just different. When the other Men of the Mask hit the ground from pain. Circuits stayed in the fight. He linked the guns of the Combat Vehicles in Air Defense mode. 
+
+If the Whisper tried to escape, the 25mm Air Burst High explosive rounds would likely have killed him without risking a civilian life. Those same civilians kept the Whisper alive. Without their pressence, any of the men in the unaffected C&C vehicles could have put enough firepower on him to tear down his armor, and destroy him. Instead, he readied for hand-to-hand combat.
