@@ -62,7 +62,7 @@ As always, things got worse.
 
 In Muskashima, the Whisper was often treated as a hero. He addressed gaps in the legal system, taking down bad cops so good cops could do their jobs. For many—perhaps most—he was the glue that held Muskashima together. To some, he was a dangerous criminal like any other. To the rest, he was a necessary but tragic part of a healthy system.
 
-Secondshimans saw him differently. To them, the Whisper was a symbol of government espionage: a leader of a new SS or a new Redcoats. They hated him as much as Stevie Tanaka did. Like the Men of the Mask, they knew their weapons. But they kept their pistols holstered and used debris and words to make their displeasure clear.
+Secondshimamen saw him differently. To them, the Whisper was a symbol of government espionage: a leader of a new SS or a new Redcoats. They hated him as much as Stevie Tanaka did. Like the Men of the Mask, they knew their weapons safety. So they kept their pistols holstered and used debris and words to make their displeasure clear.
 
 “Fuck you, you goddamned tyrant!” one militiaman shouted, throwing a broken length of pipe.
 
