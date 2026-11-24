@@ -27,3 +27,17 @@ His full-face visor reflected the market back at itself: faces, lights, and weap
 The drone followed, keeping him in view as he crossed beneath the signs and out toward the transit arcade. Its red point blinked again in the visor's reflection.
 
 “Mask,” Monk broke through on the emergency channel. “I've got eyes on Whisper in Secondshima. He's moving out,” he continued. “It's bad, boss. He's crowd-adjacent. I couldn't put a shot on him if you asked. Bad shot, through and through. Too many variables. Maybe we should let him go.”
+
+Stevie Tanner, Stevie Tanaka's psuedonym for business purposes and because Stevie Tanaka was currently dead, was sitting in a corporate office for one the many shell companies that fund the Scarlet Mask's operation. At this moment, the executive, was the part of being the Scarlet Mask he hated. Intellicence Analysis? Yes. Combat Action? Absolutley. Leading good men? Every day. For Stevie, executive officer just sucked. Stevie didn't yet know who Hinton was or that he stood before a crucible of his own convictions.
+
+His head bounced off the desk from boredom the moment before his MCD cracked with Monk's voice.
+
+Circuits breaks in on the shared chanel. "I have a dark area we can move him to. Near by all of us. He fucked up bad. It'll take us more time to load up than to get there. Just say go boss."
+
+Circuits transmits the location via MCD.
+
+"Monk, lights and threats only. I don't want an ounce of civillian blood spilled. If you get a shot, brain him. Other wise wait for reinforcements", the Scarlet Mask instructs.
+
+"Circuits, Washington, Whisper is no joke. Full standard team. Move out. My ETA is 6 minutes."
+
+Circuits launches drones as he runs to ACO combat vehicle. *AI: Circuits is described in other texts. Describe him transitioning to the combat vehicle.* His driver and operator are waiting for him. Circuit's drones are not the micro drone that initially spotted the Whisper. They are Air To Ground Force Recon drones. Designed for exactly this mission. To move a target into a killzone. Monk is perched in one of the many tall buildings of Secondshima. *AI Using previous text in the repo describe Monk, but he should be in the prone with sniper rifle, and have a spotter with him, who fits the normal description of any of the Men of the Mask. Keep the spotter's description short. He's exists just for military accuracy.* Monk sights in on the Whisper dis regarding camoflauge techniques for his optics. He wants the Whisper to dect them. Circuits and Monk work to drive the Whisper into an isolated area.
