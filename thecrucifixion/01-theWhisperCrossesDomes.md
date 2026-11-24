@@ -40,8 +40,12 @@ Circuits transmits the location via MCD.
 
 "Circuits, Washington, Whisper is no joke. Full standard team. Move out. My ETA is 6 minutes."
 
-Circuits launches drones as he runs to ACO combat vehicle. *AI: Circuits is described in other texts. Describe him transitioning to the combat vehicle.* His driver and operator are waiting for him. Circuit's drones are not the micro drone that initially spotted the Whisper. They are Air To Ground Force Recon drones. Designed for exactly this mission. To move a target into a killzone. 
+Circuits launched the drones as he ran to the ACO combat vehicle. Shorter and denser than most of the Men of the Mask, he carried himself with the compact posture of a Marine, despite a career spent in technical spaces. His regulation-short dark hair was graying at the temples; thick-rimmed glasses sat on his narrow nose. Even at a run, his eyes measured distance, timing, and risk. His driver and operator were waiting for him.
 
-Monk is perched in one of the many tall buildings of Secondshima. *AI Using previous text in the repo describe Monk, but he should be in the prone with sniper rifle, and have a spotter with him, who fits the normal description of any of the Men of the Mask. Keep the spotter's description short. He's exists just for military accuracy.* Monk sights in on the Whisper dis regarding camoflauge techniques for his optics. He wants the Whisper to dect them. 
+These were not the small monitoring drone that had first spotted the Whisper. The larger air-to-ground force-recon drones lifted into the night, dark shapes with sensor heads turning beneath them. They were built to follow movement and keep a target under watch. Circuits sent them after the Whisper.
 
-Circuits and Monk work to drive the Whisper into an isolated area.
+Monk lay prone in the shadow of a high Secondshima building, a sniper rifle settled beside him. He was tall and narrow, his long frame shaped by a lifetime in Martian gravity. Pale eyes watched through the optic beneath close-cropped hair already thinning at the temples. Beside him, his spotter lay still in the standard dark uniform and helmet of the Men of the Mask.
+
+Monk made no effort to hide his rifle's optics from the Whisper. He wanted the Whisper to notice him.
+
+Circuits and Monk worked to draw the Whisper away from the crowd and toward an isolated stretch of the city.
