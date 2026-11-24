@@ -42,7 +42,7 @@ Circuits transmits the location via MCD.
 
 Circuits launched the drones as he ran to the ACO combat vehicle. Shorter and denser than most of the Men of the Mask, he carried himself with the compact posture of a Marine, despite a career spent in technical spaces. His regulation-short dark hair was graying at the temples; thick-rimmed glasses sat on his narrow nose. Even at a run, his eyes measured distance, timing, and risk. His driver and operator were waiting for him.
 
-These were not the small monitoring drone that had first spotted the Whisper. The larger air-to-ground force-recon drones lifted into the night, dark shapes with sensor heads turning beneath them. They were built to follow movement and keep a target under watch. Circuits sent them after the Whisper.
+These were not the small monitoring drone that had first spotted the Whisper. The larger air-light-cavalry drones lifted into the night, dark shapes with sensor heads turning beneath them. They were built to follow movement and keep a target under watch and move it into place. Circuits sent them after the Whisper.
 
 Monk lay prone in the shadow of a high Secondshima building, a sniper rifle settled beside him. He was tall and narrow, his long frame shaped by a lifetime in Martian gravity. Pale eyes watched through the optic beneath close-cropped hair already thinning at the temples. Beside him, his spotter lay still in the standard dark uniform and helmet of the Men of the Mask.
 
