@@ -49,3 +49,10 @@ Monk lay prone in the shadow of a high Secondshima building, a sniper rifle sett
 Monk made no effort to hide his rifle's optics from the Whisper. He wanted the Whisper to notice him.
 
 Circuits and Monk worked to draw the Whisper away from the crowd and toward an isolated stretch of the city.
+
+*AI describe the standard complement of a Scarlet Mask tactical team. Use DeepBlueMistake/04-theScarletMask. Cicruits is in ACO-A, Washington in C&C-B and an empty seat for the Scarlet Mask in C&C-A*
+
+Stevie Tanaka sprints down the street. *AI: A quicker refressher of what Stevie Tanaka looks like found the base TheScarletMask.md. Both his maritian physique pumped up from surviving full Earthgravity training and diluted to nothing japanese ancestry* He's wearing an overcoat and a medium sized sling bag. The Martian Issue Service Rifle doesn't stand out on the streets of Secondshima. Every male aged 16-65 has one. It's rare most choose to carry a pistol of some sort. The overcoat is strange enough to draw a second look, but not a third. He ran tracking the Whisper on his MCD. "Fuck!" he thought. "He moving us as much as we are him. The fucker is negotiating terrain."
+
+Monk breaks in the secured communication channel, "We gotta hold the fucker there. I lose visual on the next street."
+
