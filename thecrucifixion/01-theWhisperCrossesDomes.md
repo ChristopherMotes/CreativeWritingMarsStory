@@ -40,4 +40,8 @@ Circuits transmits the location via MCD.
 
 "Circuits, Washington, Whisper is no joke. Full standard team. Move out. My ETA is 6 minutes."
 
-Circuits launches drones as he runs to ACO combat vehicle. *AI: Circuits is described in other texts. Describe him transitioning to the combat vehicle.* His driver and operator are waiting for him. Circuit's drones are not the micro drone that initially spotted the Whisper. They are Air To Ground Force Recon drones. Designed for exactly this mission. To move a target into a killzone. Monk is perched in one of the many tall buildings of Secondshima. *AI Using previous text in the repo describe Monk, but he should be in the prone with sniper rifle, and have a spotter with him, who fits the normal description of any of the Men of the Mask. Keep the spotter's description short. He's exists just for military accuracy.* Monk sights in on the Whisper dis regarding camoflauge techniques for his optics. He wants the Whisper to dect them. Circuits and Monk work to drive the Whisper into an isolated area.
+Circuits launches drones as he runs to ACO combat vehicle. *AI: Circuits is described in other texts. Describe him transitioning to the combat vehicle.* His driver and operator are waiting for him. Circuit's drones are not the micro drone that initially spotted the Whisper. They are Air To Ground Force Recon drones. Designed for exactly this mission. To move a target into a killzone. 
+
+Monk is perched in one of the many tall buildings of Secondshima. *AI Using previous text in the repo describe Monk, but he should be in the prone with sniper rifle, and have a spotter with him, who fits the normal description of any of the Men of the Mask. Keep the spotter's description short. He's exists just for military accuracy.* Monk sights in on the Whisper dis regarding camoflauge techniques for his optics. He wants the Whisper to dect them. 
+
+Circuits and Monk work to drive the Whisper into an isolated area.
