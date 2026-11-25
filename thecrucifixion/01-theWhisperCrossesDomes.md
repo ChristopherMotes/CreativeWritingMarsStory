@@ -86,27 +86,37 @@ Circuits had never been the strongest or fastest recruit. He had made it through
 
 If the Whisper tried to escape into the air, the vehicles could bring the overwhelming force of 15mm air-burst high-explosive rounds to bear. The civilians blocked any ground route of escape; at the same time, their presence shielded him from the Men of the Mask's precision fire as surely as armor. He readied himself for hand-to-hand combat.
 
-Twofall was the most junior man on ACO-B. The operator. Recently out of the MCMC. His family was in large minority in Secondshima that saw the Scarlet Mask and the Men of the Mask, as heros. Men given the sacred trust to step in where government couldn't be trusted and the ideals of liberty failed. Minutes before the Whisper's attack, he was beaming with pride. He knew it was random chance that his Ready Rotation landed him in the Scarlet Mask's Tactical Squad. He was proud. His family, most of neighbors and his friends would have been prouder of him.
+Twofall was the most junior man on ACO-B, its operator, and had only recently left the MCMC. His family belonged to a small minority in Secondshima who saw the Scarlet Mask and the Men of the Mask as heroes: men trusted to step in where the government could not be trusted and the ideals of liberty failed. Minutes before the Whisper's attack, Twofall had been beaming with pride. By random chance, his Ready Rotation had placed him in the Scarlet Mask's tactical squad. He was proud; his family, most of his neighbors, and his friends would have been prouder still.
 
-Now, Twofall fought off Whisper's attack. His AR Combat helmet flashed red lights indicating the air around him would take him out of the fight. He also knew that the Whisper had to stopped. The Men of the Mask weren't dense. They had the chosen not engage the Whisper he would have left. Their lives wouldn't have been at risk. But, the Whisper was a threat to Secondshima's liberty. That was more important than their lives. Twofall felt like someone was pooring magma into his skull, it was an attack the Marines had readied him. He looked around his vehicle. He was the only one in ACO-B still in the fight. His first responsibilty was to get SDM-B back in the fight. Then SDM-A and the ACO men and vehicles. The attack was hitting the AR helmets directly. Twofall, along with an AI, scoured logs to find the glitch, whatever the attack had found. The AI made the work lightening fast. The molten lava in head made it seam to take forever. The AI identified the source, but the man, Twofall, had to determine the fix. He ran it through the normal security pipelines. The pipeline went red, 'fuck' he thought. 'They're down and out.' The AI identified the security flaw, fixed it, and restarted the pipeline while Twofall danced on the edge of consciousness. The pipeline ran, five gates all green. Lowest ranked man in SDM-B gets the first live run. He pushed deploy for SDM-B-operator, and allowed himself to dancec closer to unconsciousness for a moment.
+Now Twofall fought off the Whisper's attack. Red warning lights flashed across his AR combat helmet, indicating that the assault could take him out of the fight. He also knew the Whisper had to be stopped. The Men of the Mask were not fools. If they had chosen not to engage, the Whisper would have left, and their lives would not have been at risk. But the Whisper threatened Secondshima's liberty. To Twofall, that mattered more than their lives.
 
-Stanhoe was rare but not unusual among the Men of the Mask. He wasn't a Martian Marine. He was a cop in Vostishima. Found himself mixed up in drug runninng. Turned information over to the Scarlet Mask and was taken in and trained. Like all the men of SDM teams he was pure Martian. He had a long lithe body that was incredibly effiecent in the low gravity of Mars and nicely adapted to the lower pressures of dome life. Stanhoe lack the strength and ruggedness of someone from full earth gravity, like quartermaster Washington, who was raised in a space station with full Earth gravity and air pressure. In the moment, that didn't matter. Stanhoe was one the ground. Gunshots had been going off inside his head. He couldn't think, much less move.
+It felt as if someone were pouring magma into his skull. The Marines had prepared him for an attack, but not for how long each second could feel. He looked around his vehicle. He was the only one in ACO-B still in the fight. His first responsibility was to get SDM-B back in the fight, then SDM-A and the rest of ACO. The attack was striking the AR helmets directly.
 
-Then. the gunshots stopped. All that was left was a faint migrane headache. Nothing for a man of the mask. Stanhoe had one objective. Disrupt the enemy until reinforcement could arrive. To protect the inoccent, his Martian Issue Service Rifle couldn't be discharged. I would be come a bluedgeoning weapon.
+Working with an AI, Twofall scoured the logs for the glitch the Whisper had found. The AI made the search lightning-fast; the molten pain in Twofall's head made it seem to take forever. The AI identified the source, but Twofall had to determine the fix. He ran it through the normal security pipeline. It went red.
 
-The Men of the Mask wore the same body armor Martian Marines wore. It provided protection from rifle rounds in key areas, pistrol rounds and shrapnel in others. It provided joint support for Martians to operate on Earth, which provided extra durability in a fight on Mars.
+*Fuck,* he thought. *They're down and out.*
 
-The Whisper's combat suit was the combat suit militaries spent fortunes on, knowing full well it would never make it to production. Rifle plate every where. A faster better equiped AR helment. Servoes that would make a lithe native born Martian just stronger and just faster than the average Earthman on Earth without sacrificing that incredible Martian stamina on Mars.
+The AI identified and fixed the security flaw, then restarted the pipeline while Twofall danced on the edge of consciousness. Five gates ran; all turned green. The lowest-ranked man in SDM-B would get the first live run. Twofall pushed deploy for the SDM-B operator, then let himself drift closer to unconsciousness for a moment.
 
-Stanhoe's job wasn't to win a fight with the Whisper and that power suit. He couldn't. It was to disrupt him until his team could arrive. He sprinted, circled, and lunged. He jabbed and jolted with his rifle. He wanted to be an annoying mosquito.
+Stanhoe was rare but not unusual among the Men of the Mask. He had not been a Martian Marine; he had been a Vostoshima police officer who got mixed up in drug running. He turned information over to the Scarlet Mask and was recruited and trained. Like the men on the SDM teams, he was pure Martian, with a long, lithe body efficient in Mars's low gravity and adapted to the lower pressure inside the domes.
 
-The Whisper smacked the mosquito. The blow was incredible. The lighter Martion gravity made the landing much softer than it would have been on Earth or MaSuLG4. The damage had been done by the blow. 
+Stanhoe lacked the strength and ruggedness of someone raised in full Earth gravity, like Quartermaster Washington, who had grown up on a space station with Earth-normal gravity and air pressure. In that moment, it did not matter. Stanhoe was on the ground, gunshots going off inside his head. He could not think, much less move.
 
-Stanhoe was a Man of the Mask. Broken ribs cracked forearm and a punctured lung. He picked up his rifle and went back in.
+Then the gunshots stopped. All that remained was a faint migraine, nothing a Man of the Mask could not endure. Stanhoe had one objective: disrupt the Whisper until reinforcements arrived. To protect the innocent, he could not fire his Martian Issue Service Rifle. It would have to become a bludgeon.
 
-Two fall sat in ACO-B. His code change a success. He fired it out to the rest of SDM-B and to ACO-A. Circuits prossed the code through good protocol as Twofall, before uploading to SDM-A-operator.
+The Men of the Mask wore the same body armor as Martian Marines. It protected key areas against rifle rounds and other areas against pistol rounds and shrapnel. It also supported the joints, helping Martians operate on Earth while providing extra durability in a fight on Mars.
 
-Stanhoe injured was quickly joined by his teammates. The view was that of wolverines fighting a bear. Whisper in the super suit with elite hand-to-hand figthing skills was being constantly nipped at by the Men of the Mask who brought minimal fighting skills, Maritian stamina, and furociousness.
+The Whisper's combat suit was the kind militaries spent fortunes developing, knowing full well it might never reach production: rifle plates everywhere, a faster, better-equipped AR helmet, and servos that made a lithe, native-born Martian stronger and faster than the average Earthman on Earth without sacrificing that remarkable Martian stamina on Mars.
+
+Stanhoe's job was not to win a fight against the Whisper and that power suit. He could not. His job was to disrupt the Whisper until his team arrived. He sprinted, circled, and lunged, jabbing and jolting with his rifle. He wanted to be an annoying mosquito.
+
+The Whisper swatted the mosquito. The blow sent Stanhoe flying. Mars's lighter gravity made the landing softer than it would have been on Earth or at MaSuLG4, but the blow had already done its damage.
+
+Stanhoe was a Man of the Mask. He had broken ribs, a cracked forearm, and a punctured lung. He picked up his rifle and went back in.
+
+Twofall sat in ACO-B. His code change had succeeded. He sent it to the rest of SDM-B and to ACO-A. Circuits processed the code through the proper security protocols, then Twofall uploaded it to the SDM-A operator.
+
+Stanhoe's teammates quickly joined him. The fight looked like wolverines worrying a bear. The Whisper, in his powered suit and with elite hand-to-hand skills, was constantly harried by the Men of the Mask. They brought limited fighting skills, Martian stamina, and ferocity.
 
 The two C&C vehicles sat just outside the fray. Their crews, unhelmeted for safety, were unaffected by the gas and watched the obscured figures fighting in the smoke. Washington stood between the vehicles, broad through the chest and shoulders, his close-cropped hair graying at the edges. His square face was usually calm, but now frustration had tightened it. He struck the side of one vehicle with his fist, then hit it again, unable to get through the attack and into the fight.
 
@@ -114,34 +124,34 @@ Stevie Tanaka stopped long enough to shed his overcoat and pull on the Scarlet M
 
 He reached the C&C vehicles at a run and entered the electro-psionic attack at full force. The assault scrambled his thoughts. One imperative remained: get to his men. He crawled toward the noxious smoke until the men of C&C-A reached him, dragged him beyond the attack's range, and held him there until his head cleared.
 
-Stanhoe was thrown clear by another attack by the Whisper. The remaining men opened thier attack to front and back. Whisper snatched anohter man and hurled him toward Stanhoe. The team leader for SDM-B read retreat as smarter than valor and moved to his injured men.
+The Whisper threw Stanhoe clear with another blow. The remaining men opened their attack from the front and rear. The Whisper snatched another man and hurled him toward Stanhoe. The SDM-B team leader judged that retreat was wiser than valor and moved to help his injured men.
 
-Circuits code had transmitted to a now clear headed full SDM-A. All three men applied the same pressure. Constant, steady, but light butt strokes and butt strikes. They didn't hurt the Whisper, but they annoyed him.
+Circuits' code had reached SDM-A, whose men were now clear-headed and back in the fight. All three applied the same pressure: constant and steady, but light. Their rifle-butt strokes, horizontal and smash, did not hurt the Whisper, but they annoyed him.
 
-"We're green," called out Scarlet Mask.
+“We're green,” the Scarlet Mask called.
 
-"C&C-B, bring that heavy muscle into the fight," the Scarlet Mask ordered. He referenced all of the men of C&C were born and raised in mostly Earth gravity. Bigger, more dense muscles. Thicker more dense bone structures. They'd tire faster than the pure Martians, but they'd hit harder.
+“C&C-B, bring that heavy muscle into the fight,” the Scarlet Mask ordered. The men of C&C-B had been born and raised mostly in Earth gravity. They had bigger, denser muscles and thicker bones. They would tire faster than the pure Martians, but they would hit harder.
 
-"C&C-A we have casualities," commanded the Scarlet Mask. He and the other men of C&C-A scurried through the smoke to the downed men of SDM-B. They flipped the AR Helmets from combat mode to Aide mode. They worked to help the men the Whisper had shattered.
+“C&C-A, we have casualties,” the Scarlet Mask called. He and the other men of C&C-A moved through the smoke to the downed men of SDM-B. They switched the their AR helmets from combat mode to aid mode. Battlefield intel was replaced with first aid instructions. C&C-A began treating them.
 
-Now, the men of SDM-A and C&C-B worked together. This was standard MCMC training. They did it boot camp, they did it in the fleet. SDM-A kept a relentless pace of annoying attacks. None designed to hurt. All designed to annoy, harrass, and distract. That created an opening for Quartermaster Washington to walk in unobstructed.
+The men of SDM-A and C&C-B worked together now, as they had been trained to do in MCMC boot camp and in the fleet. SDM-A maintained a relentless pace of distracting attacks. None were meant to injure; all were meant to annoy, harass, and distract. That created an opening for Quartermaster Washington to step in unobstructed.
 
-Washington started with a clean but stroke to the rib cage area.
+Washington began with a clean rifle-butt stroke smash to the ribs.
 
-Inside the Whisper's mask, something was different. Impact Event lights activated. Damage sensors alerted.
+Inside the Whisper's mask, something changed. Impact-event lights activated. Damage sensors flashed.
 
-"Yeah! You felt that mother fucker," said Washington. "Your mama, felt that."
+“Yeah! You felt that, motherfucker,” Washington said. “Your mama felt that.”
 
-Washington and SDM-A fought for about 15 seconds. Then SDM-A picked up the relentlessness. Washington stepped out to rest while another man from C&C-B fought with the Whisper.
+Washington and SDM-A fought the Whisper for about fifteen seconds. Then SDM-A increased the pressure. Washington stepped out to rest while another man from C&C-B took his place.
 
-SDM-A and C&C-B fought with the Whisper for a nearly a minute. Whisper's noxious gas was disipating and replaced by crowd who cheered every heavy blow landed by Washington and C&C-B. Some of them affectionados of the Scarlet Mask. Some thought the men of the Mask were criminals. But, they were Secondshima's criminals.
+SDM-A and C&C-B fought the Whisper for nearly a minute. His noxious gas began to dissipate, and a crowd gathered, cheering each heavy blow landed by Washington and C&C-B. Some were fans of the Scarlet Mask. Others thought the Men of the Mask were criminals. But they were Secondshima's criminals.
 
-Sometimes you stay in a fight long enough to get lucky. Right before a rotation of C&C-B fighters a crack rang out. Loud like a gunshot. The team leader for SDM-A had delivered a perfect blow, with perfect form, at the perfect time.
+Sometimes you stay in a fight long enough to get lucky. Just before a C&C-B fighter rotated in, a crack rang out, loud as a gunshot. The SDM-A team leader had landed a perfect blow, with perfect form, at the perfect time.
 
-The Scarlet Mask, meters away monitoring work on the wounded, snapped his head to the sound. The Whisper, with a broken face sheild, and the Scarlet Mask finally stared each other down.
+The Scarlet Mask, meters away and monitoring the wounded, snapped his head toward the sound. The Whisper's face shield was broken. At last, the Whisper and the Scarlet Mask stared each other down.
 
-The Scarlet Mask didn't see a stare down, he saw an image of himself split in two.
+The Scarlet Mask did not see a staredown. He saw an image of himself split in two.
 
-The Whisper was damaged and losing the fight. He had no choice but to risk it. He tucked and took the blows required to pull out his last ditch effort. A compressed coil device. It luanched a sturdy hook into a near by building and pulled the Whisper into the building's shadows.
+The Whisper was damaged and losing the fight. He had no choice but to risk it. He tucked and absorbed the blows long enough to reach his last-ditch option: a compressed-coil device. It launched a sturdy hook into a nearby building and pulled him into the shadows.
 
-The guns from SDM and ACO vehicles errupted with Air Burst HE fire. Designed to hit targets moving at military speeds, nothing got close to the Whisper.
+The guns on the SDM and ACO vehicles erupted with air-burst high-explosive fire. They were designed to hit targets moving at military speeds, but none of the rounds came close to the Whisper.
