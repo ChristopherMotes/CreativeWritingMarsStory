@@ -142,9 +142,7 @@ Inside the Whisper's mask, something changed. Impact-event lights activated. Dam
 
 “Yeah! You felt that, motherfucker,” Washington said. “Your mama felt that.”
 
-Washington and SDM-A fought the Whisper for about fifteen seconds. Then SDM-A increased the pressure. Washington stepped out to rest while another man from C&C-B took his place.
-
-SDM-A and C&C-B fought the Whisper for nearly a minute. His noxious gas began to dissipate, and a crowd gathered, cheering each heavy blow landed by Washington and C&C-B. Some were fans of the Scarlet Mask. Others thought the Men of the Mask were criminals. But they were Secondshima's criminals.
+For fifteen seconds, Washington and SDM-A kept the Whisper occupied. Then SDM-A pressed harder. Washington broke away to catch his breath as a C&C-B fighter stepped into the opening, keeping the attack unbroken. His noxious gas began to dissipate, and a crowd gathered, cheering each heavy blow landed by Washington and C&C-B. Some were fans of the Scarlet Mask. Others thought the Men of the Mask were criminals. But they were Secondshima's criminals.
 
 Sometimes you stay in a fight long enough to get lucky. Just before a C&C-B fighter rotated in, a crack rang out, loud as a gunshot. The SDM-A team leader had landed a perfect blow, with perfect form, at the perfect time.
 
