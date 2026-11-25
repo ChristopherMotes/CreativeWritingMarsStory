@@ -153,3 +153,5 @@ The Scarlet Mask did not see a staredown. He saw an image of himself split in tw
 The Whisper was damaged and losing the fight. He had no choice but to risk it. He tucked and absorbed the blows long enough to fire his last-ditch grapnel. Its hook punched into the nearby building and caught. The line snapped taut, wrenching him out of the melee and into the shadows.
 
 The guns on the SDM and ACO vehicles erupted with air-burst high-explosive fire. They were designed to hit targets moving at military speeds, but none of the rounds came close to the Whisper.
+
+“Mask, I caught the Whisper's data dump,” Circuits said over the secured channel.
