@@ -152,6 +152,6 @@ The Scarlet Mask, meters away and monitoring the wounded, snapped his head towar
 
 The Scarlet Mask did not see a staredown. He saw an image of himself split in two.
 
-The Whisper was damaged and losing the fight. He had no choice but to risk it. He tucked and absorbed the blows long enough to reach his last-ditch option: a compressed-coil device. It launched a sturdy hook into a nearby building and pulled him into the shadows.
+The Whisper was damaged and losing the fight. He had no choice but to risk it. He tucked and absorbed the blows long enough to fire his last-ditch grapnel. Its hook punched into the nearby building and caught. The line snapped taut, wrenching him out of the melee and into the shadows.
 
 The guns on the SDM and ACO vehicles erupted with air-burst high-explosive fire. They were designed to hit targets moving at military speeds, but none of the rounds came close to the Whisper.
