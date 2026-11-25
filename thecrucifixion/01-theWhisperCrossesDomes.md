@@ -38,7 +38,7 @@ Circuits sent the location to Stevie's MCD.
 
 “Monk, lights and threats only. I don't want an ounce of civilian blood spilled. If you get a shot, brain him. Otherwise, wait for reinforcements,” Stevie ordered.
 
-“Circuits, Washington, Whisper is no joke. Full standard team. Move out. My ETA is six minutes.”
+“Circuits, Washington, Whisper is no joke. Full standard tac squad. Move out. My ETA is six minutes.”
 
 Circuits launched the drones as he ran to the ACO combat vehicle. Shorter and denser than most of the Men of the Mask, he carried the compact posture of a Marine despite a career spent in technical spaces. His regulation-short dark hair was graying at the temples; thick-rimmed glasses sat on his narrow nose. Even at a run, his eyes measured distance, timing, and risk. His driver and operator were waiting.
 
@@ -62,18 +62,26 @@ As always, things got worse.
 
 In Muskashima, the Whisper was often treated as a hero. He addressed gaps in the legal system, taking down bad cops so good cops could do their jobs. For many—perhaps most—he was the glue that held Muskashima together. To some, he was a dangerous criminal like any other. To the rest, he was a necessary but tragic part of a healthy system.
 
-Secondshimamen saw him differently. To them, the Whisper was a symbol of government espionage: a leader of a new SS or a new Redcoats. They hated him as much as Stevie Tanaka did. Like the Men of the Mask, they knew their weapons safety. So they kept their pistols holstered and used debris and words to make their displeasure clear.
+Secondshimamen saw him differently. To them, the Whisper was a symbol of government domestic espionage, a leader of a new Gestapo. A symbol of government control like new Redcoats. They hated him as much as Stevie Tanaka did. 
 
-“Fuck you, you goddamned tyrant!” one militiaman shouted, throwing a broken length of pipe.
+Like the Men of the Mask, Secondshima's militiamen knew their weapons safety. The same background problem that limited Monk forced the to keep their pistols holstered and they used debris and words to make their displeasure clear.
 
-“Let Leo Musk know we don't want his Orwellian nightmare here!” another shouted, punctuating the words with an obscene gesture.
+“Fuck you, you goddamned tyrant!” one militiaman shouted, throwing a broken length of pipe. He was adorned in shorts, flip-flops and a shirt with an image of Martian Issue Service Rifle and read, "For defending homes, not profits."
+
+“Let Leo Musk know we don't want his Orwellian nightmare here!” another shouted, punctuating the words with an obscene gesture. The man was in a disco suit. He openly carried a high-end, bedazzled hand-gun.
 
 The people the Scarlet Mask and the Whisper had wanted to keep separate from the fight had followed them.
 
-The militiamen did more harm than good, but they slowed the Whisper long enough for the Men of the Mask to arrive. Four vehicles from SDM and ACO reached the area first. The Whisper drew a noxious gas grenade from one of his concealed pouches, using it to cover the civilians and himself. Then he scanned the electronic-warfare options in his augmented-reality helmet and selected an electro-psionic attack.
+The militiamen did more harm than good, but they slowed the Whisper long enough for the Men of the Mask to arrive. 
+
+The standard tactical squad operated as three teems Scouting, Deception, and Maneuver; Command and Control; and Advanced Combat Operations. Circuits rode with ACO-A. Washtington with C&C-B. An empty seat waited for the Scarlet Mask.
+
+Each element operated two cyberpunk-inspired, electrically powered combat vehicles. Each vehicle carried three Men of the Mask: a driver, a team leader, and an operator. The vehicles could function independently as three-man units or combine into six-man teams. They mounted twin 15mm machine guns.
+
+Four vehicles from SDM and ACO reached the area first. The Whisper drew a noxious gas grenade from one of his concealed pouches, using it to cover the civilians and himself. Then he scanned the electronic-warfare options in his augmented-reality helmet and selected an electro-psionic attack.
 
 The attack struck the Men of ACO and SDM like needles driven behind their eyes and into their eardrums. They dropped, struggling against pain their armor could not stop.
 
-Circuits had never been the strongest or fastest recruit. He had made it through Martian Colonial Marine Corps boot camp on desire and esprit de corps. He refused to fail, and the Corps refused to let him. He had not been selected for Earth-gravity training or infantry. Poor physical-training scores had cost him promotion. But Circuits was tough, in his own way. While the other Men of the Mask hit the ground, he stayed in the fight and linked the combat vehicles' weapons into air-defense mode.
+Circuits had never been the strongest or fastest recruit. He had made it through Martian Colonial Marine Corps boot camp on desire and esprit de corps. He refused to fail, and the Corps refused to let him. He had not been selected for Earth-gravity training or infantry. Poor physical-training scores had cost him promotion. But Circuits was tough. He completed a personal fitness test with a cracked knee cap. His run time only slightly closer to unsatisfactory than normal. While the other Men of the Mask hit the ground, he stayed in the fight and linked the combat vehicles' weapons into air-defense mode.
 
-If the Whisper tried to escape on high, the vehicles could bring the overwhelming force of air burst high explosive rounds to bear. The civilians removed any ground egress but their presence protected him as surely as any armor, from the Men of the Masks percision fire. He readied himself for hand-to-hand combat.
+If the Whisper tried to escape on high, the vehicles could bring the overwhelming force of 15mm air burst high explosive rounds to bear. The civilians removed any ground egress but their presence protected him as surely as any armor, from the Men of the Masks percision fire. He readied himself for hand-to-hand combat.
