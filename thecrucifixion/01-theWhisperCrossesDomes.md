@@ -113,3 +113,35 @@ The two C&C vehicles sat just outside the fray. Their crews, unhelmeted for safe
 Stevie Tanaka stopped long enough to shed his overcoat and pull on the Scarlet Mask's combat helmet. Scarlet-and-gold tiger stripes cut across the hard-edged shell and visor housing. The sealed facepiece covered his features, its augmented-reality display and environmental filters built for smoke, dust, and combat. With the helmet on, he was no longer simply Stevie Tanaka wearing armor. He was the Scarlet Mask: a legacy made visible, and a commander moving toward his men.
 
 He reached the C&C vehicles at a run and entered the electro-psionic attack at full force. The assault scrambled his thoughts. One imperative remained: get to his men. He crawled toward the noxious smoke until the men of C&C-A reached him, dragged him beyond the attack's range, and held him there until his head cleared.
+
+Stanhoe was thrown clear by another attack by the Whisper. The remaining men opened thier attack to front and back. Whisper snatched anohter man and hurled him toward Stanhoe. The team leader for SDM-B read retreat as smarter than valor and moved to his injured men.
+
+Circuits code had transmitted to a now clear headed full SDM-A. All three men applied the same pressure. Constant, steady, but light butt strokes and butt strikes. They didn't hurt the Whisper, but they annoyed him.
+
+"We're green," called out Scarlet Mask.
+
+"C&C-B, bring that heavy muscle into the fight," the Scarlet Mask ordered. He referenced all of the men of C&C were born and raised in mostly Earth gravity. Bigger, more dense muscles. Thicker more dense bone structures. They'd tire faster than the pure Martians, but they'd hit harder.
+
+"C&C-A we have casualities," commanded the Scarlet Mask. He and the other men of C&C-A scurried through the smoke to the downed men of SDM-B. They flipped the AR Helmets from combat mode to Aide mode. They worked to help the men the Whisper had shattered.
+
+Now, the men of SDM-A and C&C-B worked together. This was standard MCMC training. They did it boot camp, they did it in the fleet. SDM-A kept a relentless pace of annoying attacks. None designed to hurt. All designed to annoy, harrass, and distract. That created an opening for Quartermaster Washington to walk in unobstructed.
+
+Washington started with a clean but stroke to the rib cage area.
+
+Inside the Whisper's mask, something was different. Impact Event lights activated. Damage sensors alerted.
+
+"Yeah! You felt that mother fucker," said Washington. "Your mama, felt that."
+
+Washington and SDM-A fought for about 15 seconds. Then SDM-A picked up the relentlessness. Washington stepped out to rest while another man from C&C-B fought with the Whisper.
+
+SDM-A and C&C-B fought with the Whisper for a nearly a minute. Whisper's noxious gas was disipating and replaced by crowd who cheered every heavy blow landed by Washington and C&C-B. Some of them affectionados of the Scarlet Mask. Some thought the men of the Mask were criminals. But, they were Secondshima's criminals.
+
+Sometimes you stay in a fight long enough to get lucky. Right before a rotation of C&C-B fighters a crack rang out. Loud like a gunshot. The team leader for SDM-A had delivered a perfect blow, with perfect form, at the perfect time.
+
+The Scarlet Mask, meters away monitoring work on the wounded, snapped his head to the sound. The Whisper, with a broken face sheild, and the Scarlet Mask finally stared each other down.
+
+The Scarlet Mask didn't see a stare down, he saw an image of himself split in two.
+
+The Whisper was damaged and losing the fight. He had no choice but to risk it. He tucked and took the blows required to pull out his last ditch effort. A compressed coil device. It luanched a sturdy hook into a near by building and pulled the Whisper into the building's shadows.
+
+The guns from SDM and ACO vehicles errupted with Air Burst HE fire. Designed to hit targets moving at military speeds, nothing got close to the Whisper.
