@@ -154,4 +154,6 @@ The Whisper was damaged and losing the fight. He had no choice but to risk it. H
 
 The guns on the SDM and ACO vehicles erupted with air-burst high-explosive fire. They were designed to hit targets moving at military speeds, but none of the rounds came close to the Whisper.
 
-“Mask, I caught the Whisper's data dump,” Circuits said over the secured channel.
+Hours later, Twofall sat beside Stanhoe's sheet-covered body. Circuits had just finished consoling him and was leaving when the Scarlet Mask arrived.
+
+"Boss, I caught an encrypted transmission from the Whisper as he escaped," Circuits said, stopping him at the door. "It's decoded now. You're not going to like it. Do your officer shit with Twofall first."
